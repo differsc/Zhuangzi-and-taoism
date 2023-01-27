@@ -10,3 +10,4 @@ Our first meeting!
 **For next time:**
 - Read through texts linked in Sam's project proposal
 - Begin thinking of research ventures
+- Sam on project update for this week
