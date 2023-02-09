@@ -1,0 +1,12 @@
+start = corpus
+corpus = element corpus { chapter+}
+chapter = element chapter { attribute number {text}, attribute title {text},parable+, argument+}
+parable = element parable { attribute type { text },attribute name{text}, mixed{ ( lead?|speaker? ) }* }
+speaker = element speaker { attribute name { text }, attribute content {text}*,mixed { mention* }}
+lead = element lead { text }
+
+
+argument = element argument {attribute type {text}, attribute name{text}, mixed { (mention? | figurative?) }*}
+
+mention = element mention { attribute topic { text },text}
+figurative = element figurative { attribute type {text},  text}
