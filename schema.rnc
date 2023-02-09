@@ -1,12 +1,42 @@
-start = corpus
-corpus = element corpus { chapter+}
-chapter = element chapter { attribute number {text}, attribute title {text},parable+, argument+}
-parable = element parable { attribute type { text },attribute name{text}, mixed{ ( lead?|speaker? ) }* }
-speaker = element speaker { attribute name { text }, attribute content {text}*,mixed { mention* }}
-lead = element lead { text }
-
-
-argument = element argument {attribute type {text}, attribute name{text}, mixed { (mention? | figurative?) }*}
-
-mention = element mention { attribute topic { text },text}
-figurative = element figurative { attribute type {text},  text}
+start = chapter
+# This is for markup of chapters :)
+chapter = element chapter { n, name, section+ }
+n = attribute n { text }
+name = attribute name { text }
+section = element section { n, type, p* }
+type = attribute type { "parable" | "argument" }
+#
+p =
+    element p {
+        mixed { (speech | figurative | paradox | comparison | positive | negative | rhetorical)* }
+    }
+figurative =
+    element figurative {
+        topic?,
+        mixed { (positive | negative)* }
+    }
+paradox =
+    element paradox {
+        topic?,
+        mixed { (positive | negative | comparison | figurative | rhetorical)* }
+    }
+comparison =
+    element comparison {
+        topic?,
+        mixed { (positive | negative | paradox | figurative | rhetorical)* }
+    }
+positive = element positive { text }
+negative = element negative { text }
+rhetorical =
+    element rhetorical {
+        topic?,
+        mixed { (positive | negative | comparison | figurative | paradox)* }
+    }
+topic = attribute topic { text }
+#
+speech =
+    element speech {
+        speaker,
+        mixed { (positive | negative | comparison | figurative | paradox | rhetorical)* }
+    }
+speaker = attribute speaker { text }
