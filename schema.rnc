@@ -8,7 +8,7 @@ type = attribute type { "parable" | "argument" }
 #
 p =
     element p {
-        mixed { (speech | figurative | paradox | comparison | positive | negative | rhetorical)* }
+        mixed { (speech | figurative | paradox | comparison | positive | negative | rhetorical | ref)* }
     }
 figurative =
     element figurative {
@@ -37,6 +37,8 @@ topic = attribute topic { text }
 speech =
     element speech {
         speaker,
-        mixed { (positive | negative | comparison | figurative | paradox | rhetorical)* }
+        mixed { (positive | negative | comparison | figurative | paradox | rhetorical | ref)* }
     }
+ref = element ref {kind, text}
+kind = attribute kind {"historical"|"geographic"|"direct-quote"|"indirect-quote"}
 speaker = attribute speaker { text }
