@@ -1,181 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document>
-    <section><parable>In the <ext-ref type="Body of Water">Northern Ocean</ext-ref> there is a fish,
-            the name of which is Kun - I do not know how many li in size. It changes into a bird
-            with the name of Peng, the back of which is (also) - I do not know how many li in
-            extent. When this bird rouses itself and flies, its wings are like clouds all round the
-            sky. When the sea is moved (so as to bear it along), it prepares to remove to the
-                <ext-ref type="Body of Water">Southern Ocean</ext-ref>. The <ext-ref
-                type="Body of Water">Southern Ocean</ext-ref> is the Pool of Heaven. There is the
-            (book called) <ext-ref type="Book">Qi Xie</ext-ref>, a record of marvels. We have in it
-            these words: 'When the peng is removing to the Southern Ocean it flaps (its wings) on
-            the water for 3000 li. Then it ascends on a whirlwind 90,000 li, and it rests only at
-            the end of six months.' (But similar to this is the movement of the breezes which we
-            call) the horses of the fields, of the dust (which quivers in the sunbeams), and of
-            living things as they are blown against one another by the air. <question>Is its azure
-                the proper colour of the sky?</question>
-            <question>Or is it occasioned by its distance and illimitable extent?</question> If one
-            were looking down (from above), the very same appearance would just meet his view. And
-            moreover, (to speak of) the accumulation of water; if it be not great, it will not have
-            strength to support a large boat. Upset a cup of water in a cavity, and a straw will
-            float on it as if it were a boat. Place a cup in it, and it will stick fast; the water
-            is shallow and the boat is large. (So it is with) the accumulation of wind; if it be not
-            great, it will not have strength to support great wings. Therefore (the peng ascended
-            to) the height of 90,000 li, and there was such a mass of wind beneath it; thenceforth
-            the accumulation of wind was sufficient. As it seemed to bear the blue sky on its back,
-            and there was nothing to obstruct or arrest its course, it could pursue its way to the
-            South. A cicada and a little dove laughed at it, saying, 'We make an effort and fly
-            towards an elm or sapanwood tree; and sometimes before we reach it, we can do no more
-            but drop to the ground. <question>Of what use is it for this (creature) to rise 90,000
-                li, and make for the South?'</question></parable><parable> He who goes to the grassy
-            suburbs, returning to the third meal (of the day), will have his belly as full as when
-            he set out; he who goes to a distance of 100 li will have to pound his grain where he
-            stops for the night; he who goes a thousand li, will have to carry with him provisions
-            for three months.</parable>
-        <question>What should these two small creatures know about the matter?</question> The
-        knowledge of that which is small does not reach to that which is great; (the experience of)
-        a few years does not reach to that of many. <question>How do we know that it is
-            so?</question> The mushroom of a morning does not know (what takes place between) the
-        beginning and end of a month; the short-lived cicada does not know (what takes place
-        between) the spring and autumn. These are instances of a short term of life. In the south of
-        Chu there is the (tree) called Ming-ling, whose spring is 500 years, and its autumn the
-        same; in high antiquity there was that called Da-chun, whose spring was 8000 years, and its
-        autumn the same. And <person name="Peng Zu">Peng Zu</person> is the one man renowned to the
-        present day for his length of life: <question>if all men were (to wish) to match him, would
-            they not be miserable?</question></section>
-    <section><ext-ref type="Conversation">In the questions put by <person name="Tang">Tang</person>
-            to <person name="Ji">Ji</person> we have similar statements</ext-ref>: <parable>'In the
-            bare and barren north there is the dark and vast ocean - the Pool of Heaven. In it there
-            is a fish, several thousand li in breadth, while no one knows its length. Its name is
-            the kun. There is (also) a bird named the peng; its back is like the Tai mountain, while
-            its wings are like clouds all round the sky. On a whirlwind it mounts upwards as on the
+<?xml-model href="../Documents/zhuangzi/Zhuangzi-and-taoism/schema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter n="I" name="Enjoyment In Untroubled Ease">
+    <section n="I" type="parable">
+        <p>In the Northern Ocean there is a fish, the name of which is Kun - I do not know how many
+            li in size. It changes into a bird with the name of Peng, the back of which is (also) -
+            I do not know how many li in extent. When this bird rouses itself and flies, its wings
+            are like clouds all round the sky. When the sea is moved (so as to bear it along), it
+            prepares to remove to the Southern Ocean. The Southern Ocean is the Pool of Heaven.</p>
+        <p>There is the (book called) Qi Xie, a record of marvels. We have in it these words: 'When
+            the peng is removing to the Southern Ocean it flaps (its wings) on the water for 3000
+            li. Then it ascends on a whirlwind 90,000 li, and it rests only at the end of six
+            months.' (But similar to this is the movement of the breezes which we call) the horses
+            of the fields, of the dust (which quivers in the sunbeams), and of living things as they
+            are blown against one another by the air.Is its azure the proper colour of the sky? Or
+            is it occasioned by its distance and illimitable extent? If one were looking down (from
+            above), the very same appearance would just meet his view.</p>
+        <p> And moreover, (to speak of) the accumulation of water; if it be not great, it will not
+            have strength to support a large boat. Upset a cup of water in a cavity, and a straw
+            will float on it as if it were a boat. Place a cup in it, and it will stick fast; the
+            water is shallow and the boat is large. (So it is with) the accumulation of wind; if it
+            be not great, it will not have strength to support great wings. Therefore (the peng
+            ascended to) the height of 90,000 li, and there was such a mass of wind beneath it;
+            thenceforth the accumulation of wind was sufficient. As it seemed to bear the blue sky
+            on its back, and there was nothing to obstruct or arrest its course, it could pursue its
+            way to the South.</p>
+        <p>A cicada and a little dove laughed at it, saying, <speech speaker="Cicada and Dove">'We make an effort and fly towards an
+            elm or sapanwood tree; and sometimes before we reach it, we can do no more but drop to
+            the ground. Of what use is it for this (creature) to rise 90,000 li, and make for the
+            South?'</speech> He who goes to the grassy suburbs, returning to the third meal (of the day),
+            will have his belly as full as when he set out; he who goes to a distance of 100 li will
+            have to pound his grain where he stops for the night; he who goes a thousand li, will
+            have to carry with him provisions for three months. What should these two small
+            creatures know about the matter? The knowledge of that which is small does not reach to
+            that which is great; (the experience of) a few years does not reach to that of many. How
+            do we know that it is so? The mushroom of a morning does not know (what takes place
+            between) the beginning and end of a month; the short-lived cicada does not know (what
+            takes place between) the spring and autumn. These are instances of a short term of life.
+            In the south of Chu there is the (tree) called Ming-ling, whose spring is 500 years, and
+            its autumn the same; in high antiquity there was that called Da-chun, whose spring was
+            8000 years, and its autumn the same. And Peng Zu is the one man renowned to the present
+            day for his length of life: if all men were (to wish) to match him, would they not be
+            miserable?</p>
+    </section>
+    <section n="II" type="argument">
+        <p>In the questions put by Tang to Ji we have similar statements:<speech speaker="Tang">'In the bare and barren
+            north there is the dark and vast ocean - the Pool of Heaven. In it there is a fish,
+            several thousand li in breadth, while no one knows its length. Its name is the kun.
+            There is (also) a bird named the peng; its back is like the Tai mountain, while its
+            wings are like clouds all round the sky. On a whirlwind it mounts upwards as on the
             whorls of a goat's horn for 90,000 li, till, far removed from the cloudy vapours, it
             bears on its back the blue sky, and then it shapes its course for the South, and
             proceeds to the ocean there.' A quail by the side of a marsh laughed at it, and said,
-                '<question>Where is it going to?</question> I spring up with a bound, and come down
-            again when I have reached but a few fathoms, and then fly about among the brushwood and
-            bushes; and this is the perfection of flying. <question>Where is that creature going
-                to?'</question></parable> This shows the difference between the small and the
-        great.</section>
-    <section>Thus it is that men, whose wisdom is sufficient for the duties of some one office, or
-        whose conduct will secure harmony in some one district, or whose virtue is befitting a ruler
-        so that they could efficiently govern some one state, are sure to look on themselves in this
-        manner (like the quail), and yet <person name="Rongzi">Rongzi of <ext-ref type="Place"
-                >Song</ext-ref></person> would have smiled and laughed at them. (This <person
-            name="Rongzi">Rongzi</person>), though the whole world should have praised him, would
-        not for that have stimulated himself to greater endeavour, and though the whole world should
-        have condemned him, would not have exercised any more repression of his course; so fixed was
-        he in the difference between the internal (judgment of himself) and the external (judgment
-        of others), so distinctly had he marked out the bounding limit of glory and disgrace. Here,
-        however, he stopped. His place in the world indeed had become indifferent to him, but still
-        he had not planted himself firmly (in the right position). There was <person name="Leizi"
-            >Liezi</person>, who rode on the wind and pursued his way, with an admirable
-        indifference (to all external things), returning, however, after fifteen days, (to his
-        place). In regard to the things that (are supposed to) contribute to happiness, he was free
-        from all endeavours to obtain them; but though he had not to walk, there was still something
-        for which he had to wait. <question>But suppose one who mounts on (the ether of) heaven and
-            earth in its normal operation, and drives along the six elemental energies of the
-            changing (seasons), thus enjoying himself in the illimitable - what has he to wait
-            for?</question> Therefore it is said, <sagely>'The Perfect man has no (thought of) self;
-            the Spirit-like man, none of merit; the Sagely-minded man, none of fame.'</sagely>
+            'Where is it going to? I spring up with a bound, and come down again when I have reached
+            but a few fathoms, and then fly about among the brushwood and bushes; and this is the
+            perfection of flying. Where is that creature going to?</speech>' This shows the difference
+            between the small and the great.</p>
     </section>
-    <section>
-        <person name="Yao">Yao</person>, proposing to resign the throne to <person name="Xu You">Xu
-            You</person>, said, <allegory>'When the sun and moon have come forth, if the torches
-            have not been put out, <question>would it not be difficult for them to give
-                light?</question></allegory>
-        <question>When the seasonal rains are coming down, if we still keep watering the ground,
-            will not our toil be labour lost for all the good it will do?</question> Do you, Master,
-        stand forth (as sovereign), and the kingdom will (at once) be well governed. If I still
-        (continue to) preside over it, I must look on myself as vainly occupying the place - I beg
-        to resign the throne to you.' <person name="Xu You">Xu You</person> said, 'You, Sir, govern
-        the kingdom, and the kingdom is well governed. If I in these circumstances take your place,
-            <question>shall I not be doing so for the sake of the name?</question> But the name is
-        but the guest of the reality; <question>shall I be playing the part of the
-            guest?</question><parable> The tailor-bird makes its nest in the deep forest, but only
-            uses a single branch; the mole drinks from the <ext-ref type="Body of Water"
-                >He</ext-ref>, but only takes what fills its belly.</parable> Return and rest in
-        being ruler - I will have nothing to do with the throne. Though the cook were not attending
-        to his kitchen, the representative of the dead and the officer of prayer would not leave
-        their cups and stands to take his place.' </section>
-    <section>
-        <person name="Jian Wu">Jian Wu</person> asked <person name="Lian Shu">Lian Shu</person>,
-        saying, 'I heard <person name="Jie Yu">Jie Yu</person> talking words which were great, but
-        had nothing corresponding to them (in reality); once gone, they could not be brought back. I
-        was frightened by them; they were like the Milky Way which cannot be traced to its beginning
-        or end. They had no connexion with one another, and were not akin to the experiences of
-        men.' 'What were his words?' asked <person name="Lian Shu">Lian Shu</person>, and the other
-        replied, (He said) that <parable>'Far away on the hill of Gu Ye there dwelt a Spirit-like
-            man whose flesh and skin were (smooth) as ice and (white) as snow; that his manner was
-            elegant and delicate as that of a virgin; that he did not eat any of the five grains,
-            but inhaled the wind and drank the dew; that he mounted on the clouds, drove along the
-            flying dragons, rambling and enjoying himself beyond the four seas; that by the
-            concentration of his spirit-like powers he could save men from disease and pestilence,
-            and secure every year a plentiful harvest.'</parable> These words appeared to me wild
-        and incoherent and I did not believe them. 'So it is,' said <person name="Lian Shu">Lian
-            Shu</person>. 'The blind have no perception of the beauty of elegant figures, nor the
-        deaf of the sound of bells and drums. <question>But is it only the bodily senses of which
-            deafness and blindness can be predicated?</question> There is also a similar defect in
-        the intelligence; and of this your words supply an illustration in yourself. That man, with
-        those attributes, though all things were one mass of confusion, and he heard in that
-        condition the whole world crying out to him to be rectified, would not have to address
-        himself laboriously to the task, as if it were his business to rectify the world. Nothing
-        could hurt that man; the greatest floods, reaching to the sky, could not drown him, nor
-        would he feel the fervour of the greatest heats melting metals and stones till they flowed,
-        and scorching all the ground and hills. From the dust and chaff of himself, he could still
-        mould and fashion <ext-ref type="Unsure">Yaos and Shuns</ext-ref> - how should he be willing
-        to occupy himself with things?' A man of <ext-ref type="City">Song</ext-ref>, who dealt in
-        the ceremonial caps (of <ext-ref type="Unsure">Yin</ext-ref>), went with them to <ext-ref
-            type="City">Yue</ext-ref>, the people of which cut off their hair and tattooed their
-        bodies, so that they had no use for them. Yao ruled the people of the kingdom, and
-        maintained a perfect government within the four seas. Having gone to see the four (Perfect)
-        Ones on the distant hill of <ext-ref type="Geographic Location">Gu Ye</ext-ref>, when (he
-        returned to his capital) on the south of the Fen water, his throne appeared no more to his
-        deep-sunk oblivious eyes. </section>
-    <section>
-        <person name="Huizi">Huizi</person> told <person name="Zhuangzi">Zhuangzi</person>,
-            saying,<parable>'The king of <ext-ref type="Kingdom">Wei</ext-ref> sent me some seeds of
-            a large calabash, which I sowed. The fruit, when fully grown, could contain five piculs
-            (of anything). I used it to contain water, but it was so heavy that I could not lift it
-            by myself. I cut it in two to make the parts into drinking vessels; but the dried shells
-            were too wide and unstable and would not hold (the liquor); nothing but large useless
-            things! Because of their uselessness I knocked them to pieces.'</parable>
-        <person name="Zhuangzi">Zhuangzi</person> replied, 'You were indeed stupid, my master, in
-        the use of what was large. <parable>There was a man of <ext-ref type="City">Song</ext-ref>
-            who was skilful at making a salve which kept the hands from getting chapped; and (his
-            family) for generations had made the bleaching of cocoon-silk their business. A stranger
-            heard of it, and proposed to buy the art of the preparation for a hundred ounces of
-            silver. The kindred all came together, and considered the proposal. "We have," said
-            they, "been bleaching cocoon-silk for generations, and have only gained a little money.
-            Now in one morning we can sell to this man our art for a hundred ounces - let him have
-            it." The stranger accordingly got it and went away with it to give counsel to the king
-            of Wu, who was then engaged in hostilities with <person name="Yue">Yue</person>. The
-            king gave him the command of his fleet, and in the winter he had an engagement with that
-            of <person name="Yue">Yue</person>, on which he inflicted a great defeat, and was
-            invested with a portion of territory taken from <person name="Yue">Yue</person>. The
-            keeping the hands from getting chapped was the same in both cases; but in the one case
-            it led to the investiture (of the possessor of the salve), and in the other it had only
-            enabled its owners to continue their bleaching. The difference of result was owing to
-            the different use made of the art.</parable> Now you, Sir, had calabashes large enough
-        to hold five piculs; why did you not think of making large bottle-gourds of them, by means
-        of which you could have floated over rivers and lakes, instead of giving yourself the sorrow
-        of finding that they were useless for holding anything. Your mind, my master, would seem to
-        have been closed against all intelligence!'</section>
-    <section>
-        <person name="Zhuangzi">Huizi</person> said to <person name="Zhuangzi">Zhuangzi</person>,
-            <parable>'I have a large tree, which men call the Ailantus. Its trunk swells out to a
-            large size, but is not fit for a carpenter to apply his line to it; its smaller branches
-            are knotted and crooked, so that the disk and square cannot be used on them. Though
-            planted on the wayside, a builder would not turn his head to look at it. Now your words,
-            Sir, are great, but of no use - all unite in putting them away from them.' <person
-                name="Zhuangzi">Zhuangzi</person> replied, 'Have you never seen a wildcat or a
-            weasel? There it lies, crouching and low, till the wanderer approaches; east and west it
-            leaps about, avoiding neither what is high nor what is low, till it is caught in a trap,
-            or dies in a net. Again there is the Yak, so large that it is like a cloud hanging in
-            the sky. It is large indeed, but it cannot catch mice. You, Sir, have a large tree and
-            are troubled because it is of no use - why do you not plant it in a tract where there is
-            nothing else, or in a wide and barren wild? There you might saunter idly by its side, or
-            in the enjoyment of untroubled ease sleep beneath it. Neither bill nor axe would shorten
-            its existence; there would be nothing to injure it.</parable>
-        <question>What is there in its uselessness to cause you distress?'</question></section>
-</document>
+    <section n="III" type="argument">
+        <p>Thus it is that men, whose wisdom is sufficient for the duties of some one office, or
+            whose conduct will secure harmony in some one district, or whose virtue is befitting a
+            ruler so that they could efficiently govern some one state, are sure to look on
+            themselves in this manner (like the quail), and yet Rongzi of Song would have smiled and
+            laughed at them. (This Rongzi), though the whole world should have praised him, would
+            not for that have stimulated himself to greater endeavour, and though the whole world
+            should have condemned him, would not have exercised any more repression of his course;
+            so fixed was he in the difference between the internal (judgment of himself) and the
+            external (judgment of others), so distinctly had he marked out the bounding limit of
+            glory and disgrace. Here, however, he stopped. His place in the world indeed had become
+            indifferent to him, but still he had not planted himself firmly (in the right position).
+            There was Liezi, who rode on the wind and pursued his way, with an admirable
+            indifference (to all external things), returning, however, after fifteen days, (to his
+            place). In regard to the things that (are supposed to) contribute to happiness, he was
+            free from all endeavours to obtain them; but though he had not to walk, there was still
+            something for which he had to wait. But suppose one who mounts on (the ether of) heaven
+            and earth in its normal operation, and drives along the six elemental energies of the
+            changing (seasons), thus enjoying himself in the illimitable - what has he to wait for?
+            Therefore it is said, 'The Perfect man has no (thought of) self; the Spirit-like man,
+            none of merit; the Sagely-minded man, none of fame.' </p>
+    </section>
+    <section n="IV" type="parable">
+        <p> Yao, proposing to resign the throne to Xu You, said, <speech speaker="Yao">'When the sun and moon have come
+            forth, if the torches have not been put out, would it not be difficult for them to give
+            light? When the seasonal rains are coming down, if we still keep watering the ground,
+            will not our toil be labour lost for all the good it will do? Do you, Master, stand
+            forth (as sovereign), and the kingdom will (at once) be well governed. If I still
+            (continue to) preside over it, I must look on myself as vainly occupying the place - I
+            beg to resign the throne to you.'</speech> Xu You said, <speech speaker="Xu You">'You, Sir, govern the kingdom, and the
+            kingdom is well governed. If I in these circumstances take your place, shall I not be
+            doing so for the sake of the name? But the name is but the guest of the reality; shall I
+            be playing the part of the guest? The tailor-bird makes its nest in the deep forest, but
+            only uses a single branch; the mole drinks from the He, but only takes what fills its
+            belly. Return and rest in being ruler - I will have nothing to do with the throne.
+            Though the cook were not attending to his kitchen, the representative of the dead and
+            the officer of prayer would not leave their cups and stands to take his place.'</speech></p>
+    </section>
+    <section n="V" type="parable">
+        <p>Jian Wu asked Lian Shu, saying, <speech speaker="Jian Wu">'I heard Jie Yu talking words which were great, but had
+            nothing corresponding to them (in reality); once gone, they could not be brought back. I
+            was frightened by them; they were like the Milky Way which cannot be traced to its
+            beginning or end. They had no connexion with one another, and were not akin to the
+            experiences of men.'</speech> <speech speaker="Lian Shu">'What were his words?'</speech> asked Lian Shu, and the other replied, (He
+            said) that<speech speaker="Jian Wu"> 'Far away on the hill of Gu Ye there dwelt a Spirit-like man whose flesh and
+            skin were (smooth) as ice and (white) as snow; that his manner was elegant and delicate
+            as that of a virgin; that he did not eat any of the five grains, but inhaled the wind
+            and drank the dew; that he mounted on the clouds, drove along the flying dragons,
+            rambling and enjoying himself beyond the four seas; that by the concentration of his
+            spirit-like powers he could save men from disease and pestilence, and secure every year
+            a plentiful harvest.'</speech> These words appeared to me wild and incoherent and I did not
+            believe them. <speech speaker="Lian Shu">'So it is,'</speech> said Lian Shu. <speech speaker="Lian Shu">'The blind have no perception of the beauty of
+            elegant figures, nor the deaf of the sound of bells and drums. But is it only the bodily
+            senses of which deafness and blindness can be predicated? There is also a similar defect
+            in the intelligence; and of this your words supply an illustration in yourself. That
+            man, with those attributes, though all things were one mass of confusion, and he heard
+            in that condition the whole world crying out to him to be rectified, would not have to
+            address himself laboriously to the task, as if it were his business to rectify the
+            world. Nothing could hurt that man; the greatest floods, reaching to the sky, could not
+            drown him, nor would he feel the fervour of the greatest heats melting metals and stones
+            till they flowed, and scorching all the ground and hills. From the dust and chaff of
+            himself, he could still mould and fashion Yaos and Shuns - how should he be willing to
+            occupy himself with things?'</speech> A man of Song, who dealt in the ceremonial caps (of Yin),
+            went with them to Yue, the people of which cut off their hair and tattooed their bodies,
+            so that they had no use for them. Yao ruled the people of the kingdom, and maintained a
+            perfect government within the four seas. Having gone to see the four (Perfect) Ones on
+            the distant hill of Gu Ye, when (he returned to his capital) on the south of the Fen
+            water, his throne appeared no more to his deep-sunk oblivious eyes.</p>
+    </section>
+    <section n="VI" type="argument">
+        <p>Huizi told Zhuangzi, saying,<speech speaker="Huizi">'The king of Wei sent me some seeds of a large calabash,
+            which I sowed. The fruit, when fully grown, could contain five piculs (of anything). I
+            used it to contain water, but it was so heavy that I could not lift it by myself. I cut
+            it in two to make the parts into drinking vessels; but the dried shells were too wide
+            and unstable and would not hold (the liquor); nothing but large useless things! Because
+            of their uselessness I knocked them to pieces.'</speech> Zhuangzi replied, <speech speaker="Zhuangzi">'You were indeed
+            stupid, my master, in the use of what was large. There was a man of Song who was skilful
+            at making a salve which kept the hands from getting chapped; and (his family) for
+            generations had made the bleaching of cocoon-silk their business. A stranger heard of
+            it, and proposed to buy the art of the preparation for a hundred ounces of silver. The
+            kindred all came together, and considered the proposal. "We have," said they, "been
+            bleaching cocoon-silk for generations, and have only gained a little money. Now in one
+            morning we can sell to this man our art for a hundred ounces - let him have it." The
+            stranger accordingly got it and went away with it to give counsel to the king of Wu, who
+            was then engaged in hostilities with Yue. The king gave him the command of his fleet,
+            and in the winter he had an engagement with that of Yue, on which he inflicted a great
+            defeat, and was invested with a portion of territory taken from Yue. The keeping the
+            hands from getting chapped was the same in both cases; but in the one case it led to the
+            investiture (of the possessor of the salve), and in the other it had only enabled its
+            owners to continue their bleaching. The difference of result was owing to the different
+            use made of the art. Now you, Sir, had calabashes large enough to hold five piculs; why
+            did you not think of making large bottle-gourds of them, by means of which you could
+            have floated over rivers and lakes, instead of giving yourself the sorrow of finding
+            that they were useless for holding anything. Your mind, my master, would seem to have
+            been closed against all intelligence!'</speech></p>
+    </section>
+    <section n="VII" type="parable">
+        <p>Huizi said to Zhuangzi, <speech speaker="Huizi">'I have a large tree, which men call the Ailantus. Its trunk
+            swells out to a large size, but is not fit for a carpenter to apply his line to it; its
+            smaller branches are knotted and crooked, so that the disk and square cannot be used on
+            them. Though planted on the wayside, a builder would not turn his head to look at it.
+            Now your words, Sir, are great, but of no use - all unite in putting them away from
+            them.'</speech> Zhuangzi replied, <speech speaker="Zhuangzi">'Have you never seen a wildcat or a weasel? There it lies,
+            crouching and low, till the wanderer approaches; east and west it leaps about, avoiding
+            neither what is high nor what is low, till it is caught in a trap, or dies in a net.
+            Again there is the Yak, so large that it is like a cloud hanging in the sky. It is large
+            indeed, but it cannot catch mice. You, Sir, have a large tree and are troubled because
+            it is of no use - why do you not plant it in a tract where there is nothing else, or in
+            a wide and barren wild? There you might saunter idly by its side, or in the enjoyment of
+            untroubled ease sleep beneath it. Neither bill nor axe would shorten its existence;
+            there would be nothing to injure it. What is there in its uselessness to cause you
+            distress?</speech>'</p>
+    </section>
+</chapter>
