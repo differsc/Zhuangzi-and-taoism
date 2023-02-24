@@ -12,7 +12,7 @@ p =
     }
 figurative =
     element figurative {
-        topic?,
+        topic?, style,
         mixed { (positive | negative)* }
     }
 paradox =
@@ -42,3 +42,5 @@ speech =
 ref = element ref {kind, text}
 kind = attribute kind {"historical"|"geographic"|"direct-quote"|"indirect-quote"}
 speaker = attribute speaker { text }
+# Style attaches to figurative language
+style = attribute style {"simile"|"metaphor"|"irony"|"symbolism"|"personification"|"hyperbole"|"idiom"}
