@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
-<chapter n="V" name="The Seal of Virtue Complete">
-    <section type="parable" n="I">
+
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter n="5" name="The Seal of Virtue Complete">
+    <section type="parable" n="1">
         <p>In Lu there was a Wang Tai who had lost both his feet; while his disciples who followed
             and went about with him were as numerous as those of Zhongni. Chang Ji asked Zhongni
             about him, saying, <speech speaker="Chang Ji">'Though Wang Tai is a cripple, the
@@ -51,11 +52,11 @@
                 members of his body, whom his ears and eyes serve but as conveying emblematic images
                 of things, who comprehends all his knowledge in a unity, and whose mind never dies!
                 If such a man were to choose a day on which he would ascend far on high, men would
-                (seek to) follow him there. But how should he be willing to occupy himself with
-                other men?'</speech>
+                (seek to) follow him there.<rhetorical> But how should he be willing to occupy himself with
+                other men?'</rhetorical></speech>
         </p>
     </section>
-    <section n="II" type="parable">
+    <section n="2" type="parable">
         <p>Shen-tu Jia was (another) man who had lost his feet. Along with Zi-chan of Zheng he
             studied under the master Bo-hun Wu-ren. Zi-chan said to him (one day), <speech
                 speaker="Zi-chan">'If I go out first, do you remain behind; and if you go out first,
@@ -93,7 +94,7 @@
             Zi-chan felt uneasy, altered his manner and looks, and said, <speech
                 speaker="Shen-tu Jia">'You need not, Sir, say anything more about it.'</speech></p>
     </section>
-    <section n="III" type="parable">
+    <section n="3" type="parable">
         <p>In Lu there was a cripple, called Shu-shan the Toeless, who came on his heels to see
             Zhongni. Zhongni said to him, <speech speaker="Zhongni">'By your want of circumspection
                 in the past, Sir, you have incurred such a calamity; of what use is your coming to
@@ -110,8 +111,8 @@
                 cripple is still anxious to learn to make up for the evil of his former conduct;--
                 how much more should those be so whose conduct has been unchallenged!'</speech> Mr.
             Toeless, however, told Lao Dan (of the interview), saying, <speech speaker="Toeless"
-                >'Kong Qiu, I apprehend, has not yet attained to be a Perfect man. What has he to do
-                with keeping a crowd of disciples around him? He is seeking to have the reputation
+                >'Kong Qiu, I apprehend, has not yet attained to be a Perfect man. <rhetorical>What has he to do
+                with keeping a crowd of disciples around him?</rhetorical> He is seeking to have the reputation
                 of being an extraordinary and marvellous man, and does not know that the Perfect man
                 considers this to be as handcuffs and fetters to him.'</speech> Lao Dan said,
                 <speech speaker="Lao Dan">'Why did you not simply lead him to see the unity of life
@@ -121,7 +122,7 @@
                 he be freed from it?'</speech>
         </p>
     </section>
-    <section n="IV" type="parable">
+    <section n="4" type="parable">
         <p>Duke Ai of Lu asked Zhongni, saying, <speech speaker="Duke Ai">'There was an ugly man in
                 Wei, called Ai-tai Tuo. His father-in-law, who lived with him, thought so much of
                 him that he could not be away from him. His wife, when she saw him (ugly as he was),
@@ -131,7 +132,7 @@
                 position of a ruler, so as to be able to save men from death. He had no revenues, so
                 as to be able to satisfy men's craving for food. He was ugly enough, moreover, to
                 scare the whole world. He agreed with men instead of trying to lead them to adopt
-                his views; his knowledge did not go beyond his immediate neighbourhood. And yet his
+                his views; <figurative style="hyperbole">his knowledge did not go beyond his immediate neighbourhood</figurative>. And yet his
                 father-in-law and his wife were of one mind about him in his presence (as I have
                 said) - he must have been different from other men. I called him, and saw him.
                 Certainly he was ugly enough to scare the whole world. He had not lived with me,
@@ -190,32 +191,32 @@
                 myself too lightly, I may cause the ruin of my state. I and Kong Qiu are not on the
                 footing of ruler and subject, but on that of a virtuous friendship.'</speech></p>
     </section>
-    <section n="V" type="parable">
+    <section n="5" type="parable">
         <p>A person who had no lips, whose legs were bent so that he could only walk on his toes,
             and who was (otherwise) deformed, addressed his counsels to duke Ling of Wei, who was so
             pleased with him, that he looked on a perfectly formed man as having a lean and small
-            neck in comparison with him. Another who had a large goitre like an earthenware jar
+            neck in comparison with him. Another who had<figurative style="simile"> a large goitre like an earthenware jar</figurative>
             addressed his counsels to duke Huan of Qi, who was so pleased with him that he looked on
             a perfectly formed man as having a neck lean and small in comparison with him. So it is
             that when one's virtue is extraordinary, (any deficiency in) his bodily form may be
             forgotten. When men do not forget what is (easily) forgotten, and forget what is not
-            (easily) forgotten, we have a case of real oblivion. Therefore the sagely man has that
+            (easily) forgotten, we have a case of real oblivion. <paradox>Therefore the sagely man has that
             in which his mind finds its enjoyment, and (looks on) wisdom as (but) the shoots from an
-            old stump; agreements with others are to him but so much glue; kindnesses are (but the
-            arts of) intercourse; and great skill is (but as) merchants' wares. The sagely man lays
-            no plans; of what use would wisdom be to him? He has no cutting and hacking to do; of
-            what use would glue be to him? He has lost nothing; of what use would arts of
-            intercourse be to him? He has no goods to dispose of; what need has he to play the
-            merchant? (The want of) these four things are the nourishment of (his) Heavenly
+            old stump</paradox>; <figurative style="metaphor">agreements with others are to him but so much glue</figurative>; <figurative style="metaphor">kindnesses are (but the
+            arts of) intercourse;</figurative> and great skill is (but as) merchants' wares. The sagely man lays
+            no plans; <rhetorical>of what use would wisdom be to him?</rhetorical> He has no cutting and hacking to do; of
+            <rhetorical>what use would glue be to him?</rhetorical> He has lost nothing;<rhetorical> of what use would arts of
+            intercourse be to him?</rhetorical> He has no goods to dispose of; <rhetorical>what need has he to play the
+            merchant? </rhetorical>(The want of) these four things are the nourishment of (his) Heavenly
             (nature); that nourishment is its Heavenly food. Since he receives this food from
-            Heaven, what need has he for anything of man's (devising)? He has the bodily form of
+            Heaven, <rhetorical>what need has he for anything of man's (devising)?</rhetorical> He has the bodily form of
             man, but not the passions and desires of (other) men. He has the form of man, and
             therefore he is a man. Being without the passions and desires of men, their approvings
             and disapprovings are not to be found in him. How insignificant and small is (the body)
             by which he belongs to humanity! How grand and great is he in the unique perfection of
             his Heavenly (nature)!</p>
     </section>
-    <section n="VI" type="parable">
+    <section n="6" type="parable">
         <p>Huizi said to Zhuangzi, <speech speaker="Huizi">'Can a man indeed be without desires and
                 passions?'</speech> The reply was, <speech speaker="Zhuangzi">'He can.'
                 </speech><speech speaker="Huizi">'But on what grounds do you call him a man, who is

@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+
 <?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapter n="6" name="The Great and Most Honoured Master">
     <section n="1" type="argument">
-        <p><paradox>He who knows the part which the Heavenly (in him) plays, and knows (also) that which the
-            Human (in him ought to) play, has reached the perfection (of knowledge). He who knows
-            the part which the Heavenly plays (knows) that it is naturally born with him; he who
-            knows the part which the Human ought to play (proceeds) with the knowledge which he
-            possesses to nourish it in the direction of what he does not (yet) know: to complete
-            one's natural term of years and not come to an untimely end in the middle of his course
-            is the fulness of knowledge. Although it be so, there is an evil (attending this
-            condition). Such knowledge still awaits the confirmation of it as correct; it does so
-            because it is not yet determined. </paradox><rhetorical>How do we know that what we call the
-                Heavenly (in us) is not the Human?</rhetorical>
+        <p><paradox>He who knows the part which the Heavenly (in him) plays, and knows (also) that
+                which the Human (in him ought to) play, has reached the perfection (of knowledge).
+                He who knows the part which the Heavenly plays (knows) that it is naturally born
+                with him; he who knows the part which the Human ought to play (proceeds) with the
+                knowledge which he possesses to nourish it in the direction of what he does not
+                (yet) know: to complete one's natural term of years and not come to an untimely end
+                in the middle of his course is the fulness of knowledge. Although it be so, there is
+                an evil (attending this condition). Such knowledge still awaits the confirmation of
+                it as correct; it does so because it is not yet determined.
+                </paradox><rhetorical>How do we know that what we call the Heavenly (in us) is not
+                the Human?</rhetorical>
             <rhetorical>and that what we call the Human is not the Heavenly?</rhetorical> There must
             be the True man, and then there is the True knowledge. </p>
-        <p><rhetorical>What is meant by <ref kind="indirect-quote">'the True Man?'</ref></rhetorical> <paradox>The True men of old did not
-            reject (the views of) the few; they did not seek to accomplish (their ends) like heroes
-            (before others); they did not lay plans to attain those ends. Being such, though they
-            might make mistakes, they had no occasion for repentance; though they might succeed,
-            they had no self-complacency. Being such, they could ascend the loftiest heights without
-            fear; they could pass through water without being made wet by it; they could go into
-            fire without being burnt;</paradox> so it was that by their knowledge they ascended to and reached
-            the Dao. </p>
-        <p><paradox>The True men of old did not dream when they slept, had no anxiety when they awoke, and
-            did not care that their food should be pleasant. Their breathing came deep and silently.
-            The breathing of the true man comes (even) from his heels, while men generally breathe
-            (only) from their throats. When men are defeated in argument, their words come from
-            their gullets as if they were vomiting. Where lusts and desires are deep, the springs of
-            the Heavenly are shallow.</paradox> </p>
+        <p><rhetorical>What is meant by 'the True Man?'</rhetorical>
+            <paradox>The True men of old did not reject (the views of) the few; they did not seek to
+                accomplish (their ends) like heroes (before others); they did not lay plans to
+                attain those ends. Being such, though they might make mistakes, they had no occasion
+                for repentance; though they might succeed, they had no self-complacency. Being such,
+                they could ascend the loftiest heights without fear; they could pass through water
+                without being made wet by it; they could go into fire without being burnt;</paradox>
+            so it was that by their knowledge they ascended to and reached the Dao. </p>
+        <p><paradox>The True men of old did not dream when they slept, had no anxiety when they
+                awoke, and did not care that their food should be pleasant. Their breathing came
+                deep and silently. The breathing of the true man comes (even) from his heels, while
+                men generally breathe (only) from their throats. When men are defeated in argument,
+                their words come from their gullets as if they were vomiting. Where lusts and
+                desires are deep, the springs of the Heavenly are shallow.</paradox>
+        </p>
         <p>The True men of old knew nothing of the love of life or of the hatred of death. Entrance
             into life occasioned them no joy; the exit from it awakened no resistance. Composedly
             they went and came. They did not forget what their beginning bad been, and they did not
@@ -36,47 +40,53 @@
             was in them what is called the want of any mind to resist the Dao, and of all attempts
             by means of the Human to assist the Heavenly. Such were they who are called the True
             men. Being such, their minds were free from all thought; their demeanour was still and
-            unmoved; <figurative>their foreheads beamed simplicity.</figurative> <figurative>Whatever coldness came from them was like
-            that of autumn; whatever warmth came from them was like that of spring. Their joy and
-            anger assimilated to what we see in the four seasons.</figurative> They did in regard to all things
-            what was suitable, and no one could know how far their action would go. Therefore the
-            sagely man might, in his conduct of war, <paradox>destroy a state without losing the hearts of
-            the people;</paradox> <paradox>his benefits and favours might extend to a myriad generations without his
-            being a lover of men.</paradox> Hence he who tries to share his joys with others is not a sagely
-            man; he who manifests affection is not benevolent; he who observes times and seasons (to
-            regulate his conduct) is not a man of wisdom; he to whom profit and injury are not the
-            same is not a superior man; he who acts for the sake of the name of doing so, and loses
-            his (proper) self is not the (right) scholar; and he who throws away his person in a way
-            which is not the true (way) cannot command the service of others. <ref kind="historical">Such men as Hu Bu-jie,
-            Wu Guang, Bo-yi, Shu-Qi, the count of Ji, Xu-yu, Ji Ta, and Shen-tu Di</ref>, all did service
-            for other men, and sought to secure for them what they desired, not seeking their own
-            pleasure. </p>
-        <p><paradox><positive>The True men of old presented the aspect of judging others aright, but without being
-            partisans; of feeling their own insufficiency, but being without flattery or cringing.
-            Their peculiarities were natural to them, but they were not obstinately attached to
-            them; their humility was evident, but there was nothing of unreality or display about
-            it. Their placidity and satisfaction had the appearance of joy; their every movement
-            seemed to be a necessity to them. Their accumulated attractiveness drew men's looks to
-            them; their blandness fixed men's attachment to their virtue. They seemed to accommodate
-            themselves to the (manners of their age), but with a certain severity; their haughty
-            indifference was beyond its control. Unceasing seemed their endeavours to keep (their
-            mouths) shut; when they looked down, they had forgotten what they wished to say. They
-            considered punishments to be the substance (of government, and they never incurred it);
-            ceremonies to be its supporting wings (and they always observed them); wisdom (to
-            indicate) the time (for action, and they always selected it); and virtue to be
-            accordance (with others), and they were all-accordant. Considering punishments to be the
-            substance (of government), yet their generosity appeared in the (manner of their)
-            infliction of death. Considering ceremonies to be its supporting wings, they pursued by
-            means of them their course in the world. Considering wisdom to indicate the time (for
-            action), they felt it necessary to employ it in (the direction of) affairs. Considering
-            virtue to be accordance (with others), they sought to ascend its height along with all
-            who had feet (to climb it). (Such were they), and yet men really thought that they did
-            what they did by earnest effort. In this way they were one and the same in all their
-            likings and dislikings. Where they liked, they were the same; where they did not like,
-            they were the same. In the former case where they liked, they were fellow-workers with
-            the Heavenly (in them); in the latter where they disliked, they were co-workers with the
-            Human in them. The one of these elements (in their nature) did not overcome the other.
-            Such were those who are called the True men.</positive></paradox></p>
+            unmoved; <figurative style="personification">their foreheads beamed
+                simplicity.</figurative>
+            <figurative style="simile">Whatever coldness came from them was like that of autumn;
+                whatever warmth came from them was like that of spring. Their joy and anger
+                assimilated to what we see in the four seasons.</figurative> They did in regard to
+            all things what was suitable, and no one could know how far their action would go.
+            Therefore the sagely man might, in his conduct of war, <paradox>destroy a state without
+                losing the hearts of the people;</paradox>
+            <paradox>his benefits and favours might extend to a myriad generations without his being
+                a lover of men.</paradox> Hence he who tries to share his joys with others is not a
+            sagely man; he who manifests affection is not benevolent; he who observes times and
+            seasons (to regulate his conduct) is not a man of wisdom; he to whom profit and injury
+            are not the same is not a superior man; he who acts for the sake of the name of doing
+            so, and loses his (proper) self is not the (right) scholar; and he who throws away his
+            person in a way which is not the true (way) cannot command the service of others. <ref
+                kind="historical">Such men as Hu Bu-jie, Wu Guang, Bo-yi, Shu-Qi, the count of Ji,
+                Xu-yu, Ji Ta, and Shen-tu Di</ref>, all did service for other men, and sought to
+            secure for them what they desired, not seeking their own pleasure. </p>
+        <p><paradox><positive>The True men of old presented the aspect of judging others aright, but
+                    without being partisans; of feeling their own insufficiency, but being without
+                    flattery or cringing. Their peculiarities were natural to them, but they were
+                    not obstinately attached to them; their humility was evident, but there was
+                    nothing of unreality or display about it. Their placidity and satisfaction had
+                    the appearance of joy; their every movement seemed to be a necessity to them.
+                    Their accumulated attractiveness drew men's looks to them; their blandness fixed
+                    men's attachment to their virtue. They seemed to accommodate themselves to the
+                    (manners of their age), but with a certain severity; their haughty indifference
+                    was beyond its control. Unceasing seemed their endeavours to keep (their mouths)
+                    shut; when they looked down, they had forgotten what they wished to say. They
+                    considered punishments to be the substance (of government, and they never
+                    incurred it); ceremonies to be its supporting wings (and they always observed
+                    them); wisdom (to indicate) the time (for action, and they always selected it);
+                    and virtue to be accordance (with others), and they were all-accordant.
+                    Considering punishments to be the substance (of government), yet their
+                    generosity appeared in the (manner of their) infliction of death. Considering
+                    ceremonies to be its supporting wings, they pursued by means of them their
+                    course in the world. Considering wisdom to indicate the time (for action), they
+                    felt it necessary to employ it in (the direction of) affairs. Considering virtue
+                    to be accordance (with others), they sought to ascend its height along with all
+                    who had feet (to climb it). (Such were they), and yet men really thought that
+                    they did what they did by earnest effort. In this way they were one and the same
+                    in all their likings and dislikings. Where they liked, they were the same; where
+                    they did not like, they were the same. In the former case where they liked, they
+                    were fellow-workers with the Heavenly (in them); in the latter where they
+                    disliked, they were co-workers with the Human in them. The one of these elements
+                    (in their nature) did not overcome the other. Such were those who are called the
+                    True men.</positive></paradox></p>
     </section>
     <section n="2" type="argument">
         <p>Death and life are ordained, just as we have the constant succession of night and day -
@@ -85,20 +95,21 @@
             father, and they still love It (distant as It is); how much more should they love That
             which stands out (Superior and Alone)! Some specially regard their ruler as superior to
             themselves, and will give their bodies to die for him; how much more should they do so
-            for That which is their true (Ruler)! When the springs are dried up, the fishes collect
+            for That which is their true (Ruler)! <figurative topic="fish" style="metaphor">When the springs are dried up, the fishes collect
             together on the land. Than that they should moisten one another there by the damp about
             them, and keep one another wet by their slime, it would be better for them to forget one
-            another in the rivers and lakes. And <ref kind="historical">when men praise Yao and condemn Jie</ref>, it would be
-            better to forget them both, and seek the renovation of the Dao.</p>
+            another in the rivers and lakes.</figurative> And <ref kind="historical">when men praise Yao and
+                condemn Jie</ref>, it would be better to forget them both, and seek the renovation
+            of the Dao.</p>
         <p>There is the great Mass (of nature) - I find the support of my body on it; my life is
             spent in toil on it; my old age seeks ease on it; at death I find rest in it - what
             makes my life a good makes my death also a good. If you hide away a boat in the ravine
             of a hill, and hide away the hill in a lake, you will say that (the boat) is secure; but
             at midnight there shall come a strong man and carry it off on his back, while you in the
             dark know nothing about it. You may hide away anything, whether small or great, in the
-            most suitable place, and yet it shall disappear from it. But if you could hide the world
+            most suitable place, and yet it shall disappear from it. <paradox topic="World">But if you could hide the world
             in the world, so that there was nowhere to which it could be removed, this would be the
-            grand reality of the ever-during Thing. When the body of man comes from its special
+            grand reality of the ever-during Thing.</paradox> When the body of man comes from its special
             mould, there is even then occasion for joy; but this body undergoes a myriad
             transformations, and does not immediately reach its perfection; <rhetorical>does it not
                 thus afford occasion for joys incalculable?</rhetorical> Therefore the sagely man
@@ -109,32 +120,37 @@
             arises!</p>
     </section>
     <section n="3" type="argument">
-        <p>This is the Dao; <paradox>there is in It emotion and sincerity, but It does nothing and has no
-            bodily form. It may be handed down (by the teacher), but may not be received (by his
-            scholars). It may be apprehended (by the mind), but It cannot be seen. It has Its root
-            and ground (of existence) in Itself.</paradox> Before there were heaven and earth, from of old,
-            there It was, securely existing. From It came the mysterious existences of spirits, from
-            It the mysterious existence of God. <paradox>It produced heaven; It produced earth. It was before
-            the Tai-ji, and yet could not be considered high</paradox>;<paradox> It was below all space, and yet could
-            not be considered deep.</paradox> <paradox>It was produced before heaven and earth, and yet could not be
-            considered to have existed long;</paradox> <paradox>It was older than the highest antiquity, and yet could
-            not be considered old.</paradox><ref kind="historical"> Shi-wei got It, and by It adjusted heaven and earth. Fu-xi got
-            It, and by It penetrated to the mystery of the maternity of the primary matter. The
-            Wei-dou got It, and from all antiquity has made no eccentric movement. The Sun and Moon
-            got It, and from all antiquity have not intermitted (their bright shining). Kan-pei got
-            It, and by It became lord of Kun-lun. Feng-yi got It, and by It enjoyed himself in the
-            Great River. Jian-wu got It, and by It dwelt on mount Tai. Huang-di got It, and by It
-            ascended the cloudy sky. Zhuan-xu got It, and by It dwelt in the Dark Palace. Yu-jiang
-            got It, and by It was set on the North Pole. Xi Wang-mu got It, and by It had her seat
-            in (the palace of) Shao-guang. No one knows Its beginning; no one knows Its end. Peng Zu
-            got It, and lived on from the time of the lord of Yu to that of the Five Chiefs. Fu Yue
-            got It, and by It became chief minister to Wu-ding, (who thus) in a trice became master
-            of the kingdom. (After his death), Fu Yue mounted to the eastern portion of the Milky
-            Way, where, riding on Sagittarius and Scorpio, he took his place among the stars.</ref></p>
+        <p>This is the Dao; <paradox>there is in It emotion and sincerity, but It does nothing and
+                has no bodily form. It may be handed down (by the teacher), but may not be received
+                (by his scholars). It may be apprehended (by the mind), but It cannot be seen. It
+                has Its root and ground (of existence) in Itself.</paradox> Before there were heaven
+            and earth, from of old, there It was, securely existing. From It came the mysterious
+            existences of spirits, from It the mysterious existence of God. <paradox>It produced
+                heaven; It produced earth. It was before the Tai-ji, and yet could not be considered
+                high</paradox>;<paradox> It was below all space, and yet could not be considered
+                deep.</paradox>
+            <paradox>It was produced before heaven and earth, and yet could not be considered to
+                have existed long;</paradox>
+            <paradox>It was older than the highest antiquity, and yet could not be considered
+                old.</paradox><ref kind="historical"> Shi-wei got It, and by It adjusted heaven and
+                earth. Fu-xi got It, and by It penetrated to the mystery of the maternity of the
+                primary matter. The Wei-dou got It, and from all antiquity has made no eccentric
+                movement. The Sun and Moon got It, and from all antiquity have not intermitted
+                (their bright shining). Kan-pei got It, and by It became lord of Kun-lun. Feng-yi
+                got It, and by It enjoyed himself in the Great River. Jian-wu got It, and by It
+                dwelt on mount Tai. Huang-di got It, and by It ascended the cloudy sky. Zhuan-xu got
+                It, and by It dwelt in the Dark Palace. Yu-jiang got It, and by It was set on the
+                North Pole. Xi Wang-mu got It, and by It had her seat in (the palace of) Shao-guang.
+                No one knows Its beginning; no one knows Its end. Peng Zu got It, and lived on from
+                the time of the lord of Yu to that of the Five Chiefs. Fu Yue got It, and by It
+                became chief minister to Wu-ding, (who thus) in a trice became master of the
+                kingdom. (After his death), Fu Yue mounted to the eastern portion of the Milky Way,
+                where, riding on Sagittarius and Scorpio, he took his place among the
+            stars.</ref></p>
     </section>
     <section n="4" type="parable">
         <p>Nan-bo Zi-kui asked Nu Yu, saying, <speech speaker="Nan-bo Zi-kui">'You are old, Sir,
-                while your complexion is like that of a child; how is it so?'</speech> The reply
+                while <figurative style="simile">your complexion is like that of a child</figurative>; how is it so?'</speech> The reply
             was, <speech speaker="Nu Yu">'I have become acquainted with the Dao.'</speech> The other
             said, <speech speaker="Nan-bo Zi-kui">'Can I learn the Dao?'</speech> Nu Yu said,
                 <speech speaker="Nu Yu">'No. <rhetorical>How can you?</rhetorical> You, Sir, are not
@@ -181,7 +197,7 @@
             condition. He limped to a well, looked at himself in it, and said, <speech
                 speaker="Zi-yu">'Alas that the Creator should have made me the deformed object that
                 I am!'</speech> Si said, <speech speaker="Si">'Do you dislike your
-                condition?'</speech> He replied, <speech speaker="Zi-yu">'<rhetorical>No, why should
+                condition?'</speech> He replied, <speech speaker="Zi-yu">'<rhetorical topic="sickness">No, why should
                     I dislike it?</rhetorical> If He were to transform my left arm into a cock, I
                 should be watching with it the time of the night; if He were to transform my right
                 arm into a cross-bow, I should then be looking for a Xiao to (bring down and) roast;
@@ -193,13 +209,13 @@
                 entrance (to the mind). This would be what the ancients called loosing the cord by
                 which (the life) is suspended. But one hung up cannot loose himself;-- he is held
                 fast by his bonds. And that creatures cannot overcome Heaven (the inevitable) is a
-                long-acknowledged fact - <rhetorical>why should I hate my
+                long-acknowledged fact - <rhetorical topic="sickness">why should I hate my
                 condition?</rhetorical>'</speech></p>
         <p>Before long Zi-lai fell ill, and lay gasping at the point of death, while his wife and
             children stood around him wailing. Zi-li went to ask for him, and said to them, <speech
                 speaker="Zi-li">'Hush! Get out of the way! Do not disturb him as he is passing
                 through his change.'</speech> Then, leaning against the door, he said (to the dying
-            man), <speech speaker="Zi-li">'Great indeed is the Creator! <rhetorical>What will He now
+            man), <speech speaker="Zi-li">'Great indeed is the Creator! <rhetorical topic="Death">What will He now
                     make you to become? Where will He take you to? Will He make you the liver of a
                     rat, or the arm of an insect?</rhetorical></speech> Zi-lai replied, <speech
                 speaker="Zi-lai">'Wherever a parent tells a son to go, east, west, south, or north,
@@ -214,7 +230,7 @@
                 fashioned in the mould of the womb, if it were to say, "I must become a man; I must
                 become a man," the Creator would be sure to regard it as uncanny. When we once
                 understand that heaven and earth are a great melting-pot, and the Creator a great
-                founder, <rhetorical>where can we have to go to that shall not be right for
+                founder, <rhetorical topic="Purpose">where can we have to go to that shall not be right for
                     us?</rhetorical> We are born as from a quiet sleep, and we die to a calm
                 awaking.'</speech></p>
     </section>
@@ -267,8 +283,8 @@
                 Nevertheless, I will share with you (what I have attained to).'</speech> Zi-gong
             rejoined, <speech speaker="Zi-gong">'I venture to ask the method which you
                 pursue;'</speech> and Confucius said, <speech speaker="Confucius">'Fishes breed and
-                grow in the water; man developes in the Dao. Growing in the water, the fishes cleave
-                the pools, and their nourishment is supplied to them. Developing in the Dao, men do
+                grow in the water; man developes in the Dao. Growing in the water, <figurative style="personification">the fishes cleave
+                the pools</figurative>, and their nourishment is supplied to them. Developing in the Dao, men do
                 nothing, and the enjoyment of their life is secured. Hence it is said, "Fishes
                 forget one another in the rivers and lakes; men forget one another in the arts of
                 the Dao."'</speech> Zi-gong said, <speech speaker="Zi-gong">'I venture to ask about
@@ -286,19 +302,19 @@
                 well; is it that in the state of Lu one who has not the reality may yet get the
                 reputation of having it? I think the matter very strange.'</speech> Zhongni said,
                 <speech speaker="Zhongni">'That Meng-sun carried out (his views) to the utmost. He
-                was advanced in knowledge; but (in this case) <paradox>it was not possible for him to appear
-                to be negligent (in his ceremonial observances)', but he succeeded in being really
-                so to himself</paradox>. Meng-sun does not know either what purposes life serves, or what
-                death serves; he does not know which should be first sought, and which last. If he
-                is to be transformed into something else, he will simply await the transformation
-                which he does not yet know. This is all he does. And moreover, when one is about to
-                undergo his change, <rhetorical>how does he know that it has not taken
-                    place?</rhetorical> And <rhetorical>when he is not about to undergo his change,
-                    how does he know that it has taken place?</rhetorical> Take the case of me and
-                you: <rhetorical>are we in a dream from which we have not begun to
-                    awake?</rhetorical> Moreover, Meng-sun presented in his body the appearance of
-                being agitated, but in his mind he was conscious of no loss. The death was to him
-                like the issuing from one's dwelling at dawn, and no (more terrible) reality. He was
+                was advanced in knowledge; but (in this case) <paradox>it was not possible for him
+                    to appear to be negligent (in his ceremonial observances)', but he succeeded in
+                    being really so to himself</paradox>. Meng-sun does not know either what
+                purposes life serves, or what death serves; he does not know which should be first
+                sought, and which last. If he is to be transformed into something else, he will
+                simply await the transformation which he does not yet know. This is all he does. And
+                moreover, when one is about to undergo his change, <rhetorical>how does he know that
+                    it has not taken place?</rhetorical> And <rhetorical>when he is not about to
+                    undergo his change, how does he know that it has taken place?</rhetorical> Take
+                the case of me and you: <rhetorical>are we in a dream from which we have not begun
+                    to awake?</rhetorical> Moreover, Meng-sun presented in his body the appearance
+                of being agitated, but in his mind he was conscious of no loss. <figurative style="simile">The death was to him
+                like the issuing from one's dwelling at dawn</figurative>, and no (more terrible) reality. He was
                 more awake than others were. When they wailed, he also wailed, having in himself the
                 reason why he did so. And we all have our individuality which makes us what we are
                 as compared together; <rhetorical>but how do we know that we determine in any case
@@ -372,10 +388,10 @@
             pronounced. Zi-yu entered and said, <speech speaker="Zi-yu">'Why are you singing, Sir,
                 this line of poetry in such a way?'</speech> The other replied, <speech
                 speaker="Zi-sang">'I was thinking, and thinking in vain, how it was that I was
-                brought to such extremity.<rhetorical> Would my parents have wished me to be so
+                brought to such extremity.<rhetorical topic="Fairness"> Would my parents have wished me to be so
                     poor?</rhetorical> Heaven overspreads all without any partial feeling, and so
-                does Earth sustain all; <rhetorical>Would Heaven and Earth make me so poor with any
-                    unkindly feeling?</rhetorical> I was trying to find out who had done it, and I
+                does Earth sustain all; <rhetorical><figurative style="personification">Would Heaven and Earth make me so poor with any
+                    unkindly feeling?</figurative></rhetorical> I was trying to find out who had done it, and I
                 could not do so. But here I am in this extremity - it is what was appointed for
                 me!'</speech></p>
     </section>

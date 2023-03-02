@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../Documents/zhuangzi/Zhuangzi-and-taoism/schema.rnc" type="application/relax-ng-compact-syntax"?>
-<chapter n="III" name="Nourishing the Lord of Life">
-    <section n="I" type="argument">
+
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter n="3" name="Nourishing the Lord of Life">
+    <section n="1" type="argument">
         <p>There is a limit to our life, but to knowledge there is no limit. With what is limited to
             pursue after what is unlimited is a perilous thing; and when, knowing this, we still
             seek the increase of our knowledge, the peril cannot be averted. There should not be the
@@ -10,21 +11,21 @@
             with the Central Element (of our nature) is the regular way to preserve the body, to
             maintain the life, to nourish our parents, and to complete our term of years. </p>
     </section>
-    <section n="II" type="parable">
+    <section n="2" type="parable">
         <p>His cook was cutting up an ox for the ruler Wen Hui. Whenever he applied his hand, leaned
             forward with his shoulder, planted his foot, and employed the pressure of his knee, in
             the audible ripping off of the skin, and slicing operation of the knife, the sounds were
-            all in regular cadence. Movements and sounds proceeded as in the dance of 'the Mulberry
-            Forest' and the blended notes of the King Shou.' The ruler said, <speech
+            all in regular cadence. <figurative style="simile">Movements and sounds proceeded as in the dance of 'the Mulberry
+            Forest' and the blended notes of the King Shou.'</figurative> The ruler said, <speech
                 speaker="King Shou">'Ah! Admirable! That your art should have become so
                 perfect!'</speech> (Having finished his operation), the cook laid down his knife,
             and replied to the remark, <speech speaker="Cook">'What your servant loves is the method
                 of the Dao, something in advance of any art. When I first began to cut up an ox, I
                 saw nothing but the (entire) carcase. After three years I ceased to see it as a
-                whole. Now I deal with it in a spirit-like manner, and do not look at it with my
-                eyes. The use of my senses is discarded, and my spirit acts as it wills. Observing
-                the natural lines, (my knife) slips through the great crevices and slides through
-                the great cavities, taking advantage of the facilities thus presented. My art avoids
+                whole. Now I deal with it in a spirit-like manner, and <figurative style="metaphor">do not look at it with my
+                eyes.</figurative> The use of my senses is discarded, and my spirit acts as it wills. Observing
+                the natural lines, (my knife) <figurative style="personification">slips through the great crevices and slides through
+                the great cavities, taking advantage of the facilities thus presented.</figurative> My art avoids
                 the membranous ligatures, and much more the great bones. A good cook changes his
                 knife every year; (it may have been injured) in cutting - an ordinary cook changes
                 his every month - (it may have been) broken. Now my knife has been in use for
@@ -35,14 +36,14 @@
                 room enough. Nevertheless, whenever I come to a complicated joint, and see that
                 there will be some difficulty, I proceed anxiously and with caution, not allowing my
                 eyes to wander from the place, and moving my hand slowly. Then by a very slight
-                movement of the knife, the part is quickly separated, and drops like (a clod of)
-                earth to the ground. Then standing up with the knife in my hand, I look all round,
+                movement of the knife, the part is quickly separated, and <figurative style="simile">drops like (a clod of)
+                earth to the ground</figurative>. Then standing up with the knife in my hand, I look all round,
                 and in a leisurely manner, with an air of satisfaction, wipe it clean, and put it in
                 its sheath.'</speech> The ruler Wen Hui said, <speech speaker="Wen Hui">'Excellent!
                 I have heard the words of my cook, and learned from them the nourishment of (our)
                 life.'</speech></p>
     </section>
-    <section n="III" type="parable">
+    <section n="3" type="parable">
         <p>When Gong-wen Xian saw the Master of the Left, he was startled, and said, <speech
                 speaker="Gong-Wen Xian">'What sort of man is this? How is it he has but one foot? Is
                 it from Heaven? or from Man?'</speech> Then he added, <speech
@@ -51,21 +52,21 @@
                 marrow. By this I know that his peculiarity is from Heaven, and not from
                 Man.</speech></p>
     </section>
-    <section n="IV" type="parable">
+    <section n="4" type="parable">
         <p>A pheasant of the marshes has to take ten steps to pick up a mouthful of food, and thirty
             steps to get a drink, but it does not seek to be nourished in a coop. Though its spirit
             would (there) enjoy a royal abundance, it does not think (such confinement) good.' </p>
     </section>
-    <section n="V" type="parable">
-        <p>When Lao Dan died, Qin Shi went to condole (with his son), but after crying out three
+    <section n="5" type="parable">
+        <p>When Lao Dan died, Qin Shi went to console (with his son), but after crying out three
             times, he came out. The disciples said to him, <speech speaker="Disciples">'Were you not
                 a friend of the Master?'</speech>
             <speech speaker="Qin Shi">'I was,'</speech> he replied, and they said, <speech
                 speaker="Disciples">'Is it proper then to offer your condolences merely as you have
                 done?'</speech> He said,<speech speaker="Qin Shi"> 'It is. At first I thought he was
                 the man of men, and now I do not think so. When I entered a little ago and expressed
-                my condolences, there were the old men wailing as if they had lost a son, and the
-                young men wailing as if they had lost their mother. In his attracting and uniting
+                my condolences, there were the <comparison topic="mourning">old men wailing as if they had lost a son</comparison>, and the
+                <comparison topic="mourning">young men wailing as if they had lost their mother</comparison>. In his attracting and uniting
                 them to himself in such a way there must have been that which made them
                 involuntarily express their words (of condolence), and involuntarily wail, as they
                 were doing. And this was a hiding from himself of his Heaven (-nature), and an
@@ -74,11 +75,11 @@
                 Heaven (-nature). When the Master came, it was at the proper time; when he went
                 away, it was the simple sequence (of his coming). Quiet acquiescence in what happens
                 at its proper time, and quietly submitting (to its ceasing) afford no occasion for
-                grief or for joy. The ancients described (death) as the loosening of the cord on
-                which God suspended (the life).</speech>
+                grief or for joy. <ref kind="indirect-quote">The ancients described (death) as the loosening of the cord on
+                which God suspended (the life).</ref></speech>
         </p>
     </section>
-    <section n="VI" type="argument">
+    <section n="6" type="argument">
         <p>What we can point to are the faggots that have been consumed; but the fire is transmitted
             (elsewhere), and we know not that it is over and ended.</p>
     </section>
