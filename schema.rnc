@@ -13,24 +13,24 @@ p =
 figurative =
     element figurative {
         topic?, style,
-        mixed { (positive | negative)* }
+        mixed { (positive | negative| rhetorical|ref)* }
     }
 paradox =
     element paradox {
         topic?,
-        mixed { (positive | negative | comparison | figurative | rhetorical)* }
+        mixed { (positive | negative | comparison | figurative | rhetorical|ref)* }
     }
 comparison =
     element comparison {
         topic?,
-        mixed { (positive | negative | paradox | figurative | rhetorical)* }
+        mixed { (positive | negative | paradox | figurative | rhetorical| ref)* }
     }
 positive = element positive { text }
 negative = element negative { text }
 rhetorical =
     element rhetorical {
         topic?,
-        mixed { (positive | negative | comparison | figurative | paradox)* }
+        mixed { (positive | negative | comparison | figurative | paradox| ref)* }
     }
 topic = attribute topic { text }
 #
