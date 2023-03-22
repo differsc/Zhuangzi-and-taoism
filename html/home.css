@@ -75,7 +75,7 @@ p{
     position: relative;
 }
 .hover-effect::before {
-    content: "Yan Hui was a Chinese philosopher. He was the favorite disciple of Confucius and one of the most revered figures of Confucianism. He is venerated in Confucian temples as one of the Four Sages.";
+    content: attr(content);
     display: block;
     white-space: nowrap; 
     position: absolute;
@@ -83,13 +83,10 @@ p{
     background-color: #000;
     color: #fff;
     padding: 10px;
-    opacity: 0;
+    opacity: 1;
     transition: opacity 0.3s ease-in-out;
 }
 
-.hover-effect:hover::before{
-    opacity: 1;
-}
 span.emphasis{
     font-style: italic;
     font-weight: bold;
