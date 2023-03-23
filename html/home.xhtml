@@ -6,7 +6,7 @@
         <link rel="stylesheet" type="text/css" href="home.css" />
         <!--yin-yang favicon-->
         <link rel="shortcut icon" type="image/png" href="yin-yang.png" />
-        <script type="text/javascript" src="Quotes.js"></script>
+        <script type="text/javascript" src="quote-displayer.js"></script>
     </head>
     <body>
         <header>
@@ -26,9 +26,10 @@
         <!-- navagetion bar and icons -->
         <section>
             <h2>Background</h2>
-            <p>Zhuangzi was born in the 4th century BCE in the state of Song. He is known for his
-                contributions to Taoism and his philosophy on the nature of reality and the self.
-                His work is often compared to that of Lao Tzu, the author of the Tao Te Ching.</p>
+            <p>Zhuangzi,also known as Chuang-tzu,莊子,庄子,"Master Zhuang", was born in the 4th century
+                BCE in the state of Song. He is known for his contributions to Daoism and his
+                philosophy on the nature of reality and the self. His work is often compared to that
+                of Laozi, the author of the TaoTeChing.</p>
             <div style="text-align: center">
                 <img
                     src="http://entersection.com/wp-content/uploads/2010/05/zhuangzi-dreaming-001.jpg"
@@ -38,11 +39,9 @@
         <!-- background -->
         <section>
             <h2>Teachings</h2>
-            <blockquote>"Happiness is the absence of striving for happiness."</blockquote>
-            <blockquote>"There is a limit to our life, but to knowledge there is no
-                limit."</blockquote>
-            <blockquote>"There is no thing that is not "that", and there is no thing that is not
-                "this"."</blockquote>
+            <blockquote id="quote-displayer">All men know the use of the useful, but nobody knows
+                the use of the useless!</blockquote>
+            <button onclick="generateQuote()">Generate Quote</button>
         </section>
         <!-- A simple version of the quotation section -->
         <section>
@@ -53,27 +52,28 @@
                     Confucius and one of the most revered figures of Confucianism. He is venerated 
                     in Confucian temples as one of the Four Sages."> Yan Hui</a>
                 said, 'I can go no farther; I venture to ask the method from you.' <a
-                    href="https://en.wikipedia.org/wiki/Confucius" target="_blank" class="hover-effect"
+                    href="https://en.wikipedia.org/wiki/Confucius" target="_blank"
+                    class="hover-effect"
                     content="Zhongni was a Chinese philosopher and politician of the Spring and Autumn period 
-                    who is traditionally considered the paragon of Chinese sages. ">Zhongni</a>
-                replied, 'It is <span class="emphasis">fasting</span>, (as) I will tell you. (But)
-                when you have the method, will you find it easy to practise it? He who thinks it
-                easy will be disapproved of by the bright Heaven.' Hui said, 'My family is poor. For
-                months together we have no spirituous drink, nor do we taste the proscribed food or
-                any strong-smelling vegetables;-- can this be regarded as fasting?' The reply was,
-                'It is the fasting appropriate to sacrificing, but it is not the fasting of the
-                mind.' 'I venture to ask what that <span class="emphasis">fasting of the mind</span>
-                is,' said Hui, and Zhongni answered, 'Maintain a perfect unity in every movement of
-                your will, You will not wait for the hearing of your ears about it, but for the
-                hearing of your mind. You will not wait even for the hearing of your mind, but for
-                the hearing of the spirit. Let the hearing (of the ears) rest with the ears. Let the
-                mind rest in the verification (of the rightness of what is in the will). But the
-                spirit is free from all pre-occupation and so waits for (the appearance of) things.
-                Where the (proper) course is, there is freedom from all pre-occupation; such freedom
-                is the fasting of the mind.' Hui said, 'Before it was possible for me to employ
-                (this method), there I was, the Hui that I am; now, that I can employ it, the Hui
-                that I was has passed away. Can I be said to have obtained this freedom from
-                pre-occupation?' </p>
+                    who is traditionally considered the paragon of Chinese sages. "
+                    >Zhongni</a> replied, 'It is <span class="emphasis">fasting</span>, (as) I will
+                tell you. (But) when you have the method, will you find it easy to practise it? He
+                who thinks it easy will be disapproved of by the bright Heaven.' Hui said, 'My
+                family is poor. For months together we have no spirituous drink, nor do we taste the
+                proscribed food or any strong-smelling vegetables;-- can this be regarded as
+                fasting?' The reply was, 'It is the fasting appropriate to sacrificing, but it is
+                not the fasting of the mind.' 'I venture to ask what that <span class="emphasis"
+                    >fasting of the mind</span> is,' said Hui, and Zhongni answered, 'Maintain a
+                perfect unity in every movement of your will, You will not wait for the hearing of
+                your ears about it, but for the hearing of your mind. You will not wait even for the
+                hearing of your mind, but for the hearing of the spirit. Let the hearing (of the
+                ears) rest with the ears. Let the mind rest in the verification (of the rightness of
+                what is in the will). But the spirit is free from all pre-occupation and so waits
+                for (the appearance of) things. Where the (proper) course is, there is freedom from
+                all pre-occupation; such freedom is the fasting of the mind.' Hui said, 'Before it
+                was possible for me to employ (this method), there I was, the Hui that I am; now,
+                that I can employ it, the Hui that I was has passed away. Can I be said to have
+                obtained this freedom from pre-occupation?' </p>
             <p>The Master replied, 'Entirely. I tell you that you can enter and be at ease in the
                 enclosure (where he is), and not come into collision with the reputation (which
                 belongs to him). If he listen to your counsels, let him hear your notes; if he will
@@ -96,7 +96,5 @@
                 practised all their lives: how much more should other men follow the same rule!'</p>
         </section>
         <!-- Small example parable and introduction to Yanhui and Zhongni. -->
-        <p id="quote-container"></p>
-        <button onclick="generateQuote()">Generate Quote</button>
     </body>
 </html>
