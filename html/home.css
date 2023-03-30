@@ -16,7 +16,7 @@ header {
     color: #ffffff;
     padding: 20px;
     text-align: center;
-    border: 1px solid white;
+    border: 5px solid white;
 }
 
 h1 {
@@ -44,7 +44,7 @@ a.icon {
   color: #000000;
   font-size: 32pt;
   border: 1px solid black;
-  padding: 5px;
+  padding: 10px;
   border-radius: 50%;
 }
 a:hover {
