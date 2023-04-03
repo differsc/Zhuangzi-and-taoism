@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:djb="http://www.obdurodon.org"
+     viewBox="-80, -80 160 160">
+   <circle cx="0"
+           cy="0"
+           r="80"
+           stroke="black"
+           fill-opacity="0"
+           fill="white"/>
+   <path d="         M 0, 0         A 40 40 0 0 1 0 80         A 80 80 0 0 0 0 -80         A 40 40 0 0 0 0 0"
+         fill="black"/>
+   <circle cx="0" cy="-40" r="10" fill="white"/>
+   <circle cx="0" cy="40" r="10" fill="black"/>
+</svg>
