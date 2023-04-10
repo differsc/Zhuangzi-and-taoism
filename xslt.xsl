@@ -32,84 +32,84 @@
     </xsl:template>
     
     <xsl:template match="figurative">
-        <div>
-        <xsl:attribute name="type">
+        <span>
+        <xsl:attribute name="class">
             <xsl:text>figurative</xsl:text>
         </xsl:attribute>
             <xsl:attribute name="style">
                 <xsl:value-of select="@style"/>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     
     <xsl:template match="paradox">
-        <div>
-            <xsl:attribute name="type">
+        <span>
+            <xsl:attribute name="class">
                 <xsl:text>paradox</xsl:text>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     
     <xsl:template match="comparison">
-        <div>
-            <xsl:attribute name="type">
+        <span>
+            <xsl:attribute name="class">
                 <xsl:text>comparison</xsl:text>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     
     <xsl:template match="positive">
-        <div>
-            <xsl:attribute name="type">
+        <span>
+            <xsl:attribute name="class">
                 <xsl:text>positive</xsl:text>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     
     <xsl:template match="negative">
-        <div>
-            <xsl:attribute name="type">
+        <span>
+            <xsl:attribute name="class">
                 <xsl:text>negative</xsl:text>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     
     <xsl:template match="rhetorical">
-        <div>
-            <xsl:attribute name="type">
+        <span>
+            <xsl:attribute name="class">
                 <xsl:text>rhetorical</xsl:text>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     
     <xsl:template match="speech">
-        <div>
-            <xsl:attribute name="type">
+        <span>
+            <xsl:attribute name="class">
                 <xsl:text>speech</xsl:text>
             </xsl:attribute>
-            <xsl:attribute name="speaker">
+            <xsl:attribute name="title">
                 <xsl:value-of select="@speaker"/>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
     
     <xsl:template match="ref">
-        <div>
-            <xsl:attribute name="type">
+        <span>
+            <xsl:attribute name="class">
                 <xsl:text>ref</xsl:text>
             </xsl:attribute>
-            <xsl:attribute name="kind">
+            <xsl:attribute name="id">
                 <xsl:value-of select="@kind"/>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </div>
+        </span>
     </xsl:template>
  
 </xsl:stylesheet>
