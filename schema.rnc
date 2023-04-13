@@ -5,32 +5,43 @@ n = attribute n { text }
 name = attribute name { text }
 section = element section { n, type, p* }
 type = attribute type { "parable" | "argument" }
-#
+
+# ***N O T E S   O N    A P P E A R A N C E   F O R   R E A D I N G   V I E W***
+
+# Type attribute addressed in subtitle for each section? not sure how to handle this or even if it's necessary to mention
+# Kind attribute underlines text, hover for details.
+# Style attribute changes color of text,  simile red, metaphor orange, irony yellow, symbolism green, personification blue, hyperbole purple, idiom pink. include key in beginning of reading view page.
+# Topics will appear as an addendum in hover text for some elements (when deemed important, discretionary)
+# important speakers adressed in list on reading view page
+
 p =
     element p {
-        mixed { (speech | figurative | paradox | comparison | positive | negative | rhetorical | ref)* }
+        mixed {
+            (speech | figurative | paradox | comparison | positive | negative | rhetorical | ref)*
+        }
     }
 figurative =
     element figurative {
-        topic?, style,
-        mixed { (positive | negative| rhetorical|ref)* }
+        topic?,
+        style,
+        mixed { (positive | negative | rhetorical | ref)* }
     }
 paradox =
     element paradox {
         topic?,
-        mixed { (positive | negative | comparison | figurative | rhetorical|ref)* }
+        mixed { (positive | negative | comparison | figurative | rhetorical | ref)* }
     }
 comparison =
     element comparison {
         topic?,
-        mixed { (positive | negative | paradox | figurative | rhetorical| ref)* }
+        mixed { (positive | negative | paradox | figurative | rhetorical | ref)* }
     }
 positive = element positive { text }
 negative = element negative { text }
 rhetorical =
     element rhetorical {
         topic?,
-        mixed { (positive | negative | comparison | figurative | paradox| ref)* }
+        mixed { (positive | negative | comparison | figurative | paradox | ref)* }
     }
 topic = attribute topic { text }
 #
@@ -39,8 +50,10 @@ speech =
         speaker,
         mixed { (positive | negative | comparison | figurative | paradox | rhetorical | ref)* }
     }
-ref = element ref {kind, text}
-kind = attribute kind {"historical"|"geographic"|"direct-quote"|"indirect-quote"}
+ref = element ref { kind, text }
+kind = attribute kind { "historical" | "geographic" | "direct-quote" | "indirect-quote" }
 speaker = attribute speaker { text }
-# Style attaches to figurative language
-style = attribute style {"simile"|"metaphor"|"irony"|"symbolism"|"personification"|"hyperbole"|"idiom"}
+style =
+    attribute style {
+        "simile" | "metaphor" | "irony" | "symbolism" | "personification" | "hyperbole" | "idiom"
+    }

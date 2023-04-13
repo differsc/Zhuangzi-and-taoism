@@ -2,7 +2,9 @@
 
 <?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapter n="3" name="Nourishing the Lord of Life">
+    <!-- C O M M E N T S   A R E   P R E L I M I N A R Y   A N A L Y S I S -->
     <section n="1" type="argument">
+        <!--We are not to pursue what is beyond us. What is right is what is obvious.-->
         <p>There is a limit to our life, but to knowledge there is no limit. With what is limited to
             pursue after what is unlimited is a perilous thing; and when, knowing this, we still
             seek the increase of our knowledge, the peril cannot be averted. There should not be the
@@ -12,6 +14,7 @@
             maintain the life, to nourish our parents, and to complete our term of years. </p>
     </section>
     <section n="2" type="parable">
+        <!-- In the cook's repitition of his task, the task itself changed. Thoughts became motions, unaffected by the person executing them. This is what Zhuangzi thinks is right. -->
         <p>His cook was cutting up an ox for the ruler Wen Hui. Whenever he applied his hand, leaned
             forward with his shoulder, planted his foot, and employed the pressure of his knee, in
             the audible ripping off of the skin, and slicing operation of the knife, the sounds were
@@ -44,6 +47,7 @@
                 life.'</speech></p>
     </section>
     <section n="3" type="parable">
+        <!--Natural deformities or other nature-borne errors are "good", in that they do not require reprimanding, because things could not have ever been any other way.-->
         <p>When Gong-wen Xian saw the Master of the Left, he was startled, and said, <speech
                 speaker="Gong-Wen Xian">'What sort of man is this? How is it he has but one foot? Is
                 it from Heaven? or from Man?'</speech> Then he added, <speech
@@ -58,6 +62,7 @@
             would (there) enjoy a royal abundance, it does not think (such confinement) good.' </p>
     </section>
     <section n="5" type="parable">
+        <!-- Zhuangzi thinks that the best way to honor the dead is to respect the relationship with the deceased. Indulgence in feelings that do not belong to you is to stray from the Dao.-->
         <p>When Lao Dan died, Qin Shi went to console (with his son), but after crying out three
             times, he came out. The disciples said to him, <speech speaker="Disciples">'Were you not
                 a friend of the Master?'</speech>
@@ -80,6 +85,7 @@
         </p>
     </section>
     <section n="6" type="argument">
+        <!-- Everything is transitional. nothing ever truly appears or disappears, only shifts in form-->
         <p>What we can point to are the faggots that have been consumed; but the fire is transmitted
             (elsewhere), and we know not that it is over and ended.</p>
     </section>
