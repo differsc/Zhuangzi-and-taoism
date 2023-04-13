@@ -11,6 +11,7 @@
         <html>
             <head>
                 <title><xsl:value-of select="//chapter/@name"/></title> 
+                <link rel="stylesheet" type="text/css" href="../Zhuangzi-and-taoism/html/home.css" />
             </head>
             <body>
                 <h1><xsl:value-of select="//chapter/@name"/></h1>
