@@ -40,11 +40,7 @@ a.icon {
     border-radius: 50%;
 }
 
-div.figure {
-    text-align: right;
-}
-
-img {
+#index{
     float: right;
     margin-right: 20px;
      height: 360px; 
