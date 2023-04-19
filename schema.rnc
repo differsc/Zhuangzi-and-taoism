@@ -1,5 +1,6 @@
-start = chapter
+start = chapters
 # This is for markup of chapters :)
+chapters= element chapters { chapter+ }
 chapter = element chapter { n, name, section+ }
 n = attribute n { text }
 name = attribute name { text }

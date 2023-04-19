@@ -10,17 +10,42 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title><xsl:value-of select="//chapter/@name"/></title> 
-                <link rel="stylesheet" type="text/css" href="../Zhuangzi-and-taoism/html/home.css" />
+                <title>corpus</title> 
+                <link rel="stylesheet" type="text/css" href="home.css" />
             </head>
             <body>
-                <h1><xsl:value-of select="//chapter/@name"/></h1>
-                <xsl:apply-templates select="//section"/>
+                <h1>Contents</h1>
+                <ul>
+                    <xsl:apply-templates select="//chapter" mode="toc"/>
+                </ul>
+                <hr/>
+                <xsl:apply-templates select="//chapter"/>
             </body>
         </html>
     </xsl:template>
     
-    <xsl:template match="section">
+    <xsl:template match="chapter" mode="toc">
+        <li>
+            <q>
+                <a href="#chapter{@n}">
+                    <xsl:value-of select="@name"/>
+                    <xsl:text> (</xsl:text>
+                    <xsl:value-of select="@n"/>
+                    <xsl:text>)</xsl:text>
+                </a></q>
+        </li>
+    </xsl:template>
+    
+    <xsl:template match="chapter">
+        <h1><a href="#contents"><xsl:attribute name="id">
+            <xsl:text>chapter</xsl:text>
+            <xsl:value-of select="@n"/>
+        </xsl:attribute>
+        <xsl:text>Chapter </xsl:text>
+            <xsl:value-of select="@n"/>
+            <xsl:text>:</xsl:text>
+            <xsl:value-of select="@name"/>
+        </a></h1>
         <section>
             <xsl:apply-templates/>
         </section>
@@ -102,15 +127,12 @@
     </xsl:template>
     
     <xsl:template match="ref">
-        <span>
+        <em>
             <xsl:attribute name="class">
-                <xsl:text>ref</xsl:text>
-            </xsl:attribute>
-            <xsl:attribute name="id">
                 <xsl:value-of select="@kind"/>
             </xsl:attribute>
             <xsl:apply-templates/>
-        </span>
+        </em>
     </xsl:template>
  
 </xsl:stylesheet>
