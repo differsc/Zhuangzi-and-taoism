@@ -12,7 +12,7 @@
             viewBox="-100 -{$y-max + 150} {$x-max + 300} {$y-max + 300}">
             <text x="{$x-max div 2}" y="-{$y-max + 50}" text-anchor="middle"
                 font-size="36">Instances of Figurative Languages</text>
-            <text x="{$x-max div 2}" y="100" text-anchor="middle" font-size="16">Chapter by numbers</text>
+            <text x="{$x-max div 2}" y="100" text-anchor="middle" font-size="16">Chapter by Number</text>
             <text y="-{$y-max div 2}" x="-100" text-anchor="middle" font-size="16">Instances</text>
             <text y="-{$y-max div 6}" x="{150+$x-max}" text-anchor="middle" font-size="16">Character counts</text>
             <line x1="0" x2="{$x-max}" y1="0" y2="0" stroke="black" stroke-width="2"/>
@@ -56,7 +56,7 @@
         <rect x="{-120+$x-scale*position()}" y="-{$weighted-counts*0.02}" height="{$weighted-counts*0.02}" fill="black" width="75" stroke="black" stroke-width="2"/>
         <text x="{-20+$x-scale*position()}" y="-{$weighted-counts*0.02+10}" text-anchor="middle"><xsl:value-of select="$weighted-counts"/></text>
         <!-- bar by actual character counts -->
-        <text x="{-100+$x-scale*position()}" y="20" text-anchor="middle"><xsl:value-of select="@name"/></text>
+        <text x="{-100+$x-scale*position()}" y="20" text-anchor="middle" font-size="13"><xsl:value-of select="@name"/></text>
         <text x="{-20+$x-scale*position()}" y="-{$weighted-counts*0.02-10}" text-anchor="middle"><xsl:value-of select="$portion"/>%</text>
     </xsl:template>
 </xsl:stylesheet>
