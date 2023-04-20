@@ -19,7 +19,7 @@ header {
 }
 
 h1 {
-    margin-top: 0;
+    margin-top: 1in;
     text-align: center;
 }
 
@@ -40,11 +40,11 @@ a.icon {
     border-radius: 50%;
 }
 
-#index{
+#index {
     float: right;
     margin-right: 20px;
-     height: 360px; 
-     width: 180px; 
+    height: 360px;
+    width: 180px;
 }
 
 a:hover {
@@ -60,7 +60,7 @@ hr {
 }
 
 .button-container {
-   text-align: center;
+    text-align: center;
 }
 
 button {
@@ -96,7 +96,7 @@ p::first-letter {
 p {
     text-indent: 2em;
     margin: 40px;
-    font-size:18px;
+    font-size: 18px;
 }
 
 .hover-effect:hover {
@@ -113,6 +113,39 @@ p {
     padding: 10px;
     opacity: 1;
     transition: opacity 0.3s ease-in-out;
+}
+
+kind:hover {
+    text-underline-position: under;
+    font-weight:bold
+}
+/*  I realize I can probably make this simpler but IDK how */
+style[simile] {
+    color: red
+}
+
+style[metaphor] {
+    color: orange
+}
+
+style[irony] {
+    color: yellow
+}
+
+style[symbolism] {
+    color: green
+}
+
+style[personification] {
+    color: blue
+}
+
+style[hyperbole] {
+    color: purple
+}
+
+style[idiom] {
+    color: pink
 }
 
 span.emphasis {
