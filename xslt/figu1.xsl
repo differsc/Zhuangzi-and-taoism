@@ -32,11 +32,11 @@
             <rect x="{100+$x-max}" y="-{$y-max}" height="450" fill="white" width="150" stroke="black" stroke-width="2"/>
             <text x="{130+$x-max}" y="-{-50+$y-max}" font-size="24">Legends</text>
             <rect x="{160+$x-max}" y="-{-80+$y-max}" height="50" fill="black" width="25" stroke="white" stroke-width="2"/>
-            <text x="{110+$x-max}" y="-{-160+$y-max}" text-align="middle" >Character Counts</text>
+            <text x="{110+$x-max}" y="-{-160+$y-max}" text-anchor="middle" >Character Counts</text>
             <rect x="{160+$x-max}" y="-{-200+$y-max}" height="50" fill="white" width="25" stroke="black" stroke-width="2"/>
-            <text x="{140+$x-max}" y="-{-280+$y-max}" text-align="middle" >Instances</text>
+            <text x="{140+$x-max}" y="-{-280+$y-max}" text-anchor="middle" >Instances</text>
             <rect x="{160+$x-max}" y="-{-320+$y-max}" height="50" fill="gray" width="25" stroke="black" stroke-width="2"/>
-            <text x="{140+$x-max}" y="-{-400+$y-max}" text-align="middle">Total Counts</text> 
+            <text x="{140+$x-max}" y="-{-400+$y-max}" text-anchor="middle">Total Counts</text> 
             <!-- Legends -->
             <xsl:apply-templates select="//chapter"/>
         </svg>
