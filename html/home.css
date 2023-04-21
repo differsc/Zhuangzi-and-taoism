@@ -117,9 +117,18 @@ p {
 
 kind:hover {
     text-underline-position: under;
-    font-weight:bold
 }
 /*  I realize I can probably make this simpler but IDK how */
+
+
+figurative:hover {
+    font-weight: bold    
+}
+
+paradox:hover {
+    font-style:italic
+}
+
 style[simile] {
     color: red
 }
