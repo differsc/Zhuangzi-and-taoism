@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
     xmlns="http://www.w3.org/2000/svg" version="3.0">
-    <xsl:output method="xml" indent="yes"/>
+    <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
     <xsl:variable name="y-max"  select="600"/>
     <xsl:variable name="x-scale"  select="250"/>
     <xsl:variable name="x-max" select="($x-scale) * count(//chapter)"/>
