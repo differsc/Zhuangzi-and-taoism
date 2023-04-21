@@ -129,31 +129,31 @@ paradox:hover {
     font-style:italic
 }
 
-style[simile] {
+span[style="simile"] {
     color: red
 }
 
-style[metaphor] {
+span[style="metaphor"] {
     color: orange
 }
 
-style[irony] {
+span[style="irony"] {
     color: yellow
 }
 
-style[symbolism] {
+span[style="symbolism"] {
     color: green
 }
 
-style[personification] {
+span[style="personification"] {
     color: blue
 }
 
-style[hyperbole] {
+span[style="hyperbole"] {
     color: purple
 }
 
-style[idiom] {
+span[style="idiom"] {
     color: pink
 }
 
