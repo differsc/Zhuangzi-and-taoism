@@ -46,6 +46,27 @@ a.icon {
     border-radius: 50%;
 }
 
+.titles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:20px;
+    padding:10px;
+    list-style: none; 
+}
+
+li{
+    margin:10px;
+}
+
+a.title {
+    text-decoration: none;
+    color: #000000;
+    font-size: 36pt;
+    border: 5px solid black;
+    padding: 5px;
+}
+
 #index {
     float: right;
     margin-right: 20px;
@@ -103,6 +124,11 @@ p {
     text-indent: 2em;
     margin: 40px;
     font-size: 18px;
+}
+
+section {
+     border: 5px solid black;
+     margin: 40px;
 }
 
 .hover-effect:hover {

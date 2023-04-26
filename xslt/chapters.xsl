@@ -14,7 +14,7 @@
                 <link rel="stylesheet" type="text/css" href="home.css" />
             </head>
             <body>
-                <h1>Contents</h1>
+                <h1><a class="title" id="contents">Contents</a></h1>
                 <ul>
                     <xsl:apply-templates select="//chapter" mode="toc"/>
                 </ul>
@@ -27,7 +27,7 @@
     <xsl:template match="chapter" mode="toc">
         <li>
             <q>
-                <a href="#chapter{@n}">
+                <a class="title" href="#chapter{@n}">
                     <xsl:value-of select="@name"/>
                     <xsl:text> (</xsl:text>
                     <xsl:value-of select="@n"/>
@@ -37,7 +37,7 @@
     </xsl:template>
     
     <xsl:template match="chapter">
-        <h1><a href="#contents"><xsl:attribute name="id">
+        <h1><a class="title" href="#contents"><xsl:attribute name="id">
             <xsl:text>chapter</xsl:text>
             <xsl:value-of select="@n"/>
         </xsl:attribute>
