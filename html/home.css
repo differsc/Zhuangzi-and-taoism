@@ -50,17 +50,21 @@ a.icon {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin:20px;
-    padding:10px;
-    list-style: none; 
+    margin: 20px;
+    padding: 10px;
+    list-style: none;
 }
 
-li{
-    margin:10px;
+li {
+    margin: 10px;
 }
 
-ul{
-     list-style: none;
+ul {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
 }
 
 a.title {
@@ -131,8 +135,8 @@ p {
 }
 
 section {
-     border: 5px solid black;
-     margin: 40px;
+    border: 5px solid black;
+    margin: 40px;
 }
 
 .hover-effect:hover {
@@ -151,17 +155,21 @@ section {
     transition: opacity 0.3s ease-in-out;
 }
 
-.floating-window {
-  position: fixed;
-  top: 0;
-  right: 0;
-  width: 300px;
-  background-color:white;
-  border: 5px solid black;
-  margin:40px;
+.acknowlegdement{ 
+   display:block;
 }
 
-.toolbar{
+.floating-window {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    background-color: white;
+    border: 5px solid black;
+    margin: 40px;
+}
+
+.toolbar {
     line-height: 0;
 }
 
@@ -172,38 +180,38 @@ kind:hover {
 
 
 figurative:hover {
-    font-weight: bold    
+    font-weight: bold
 }
 
 paradox:hover {
-    font-style:italic
+    font-style: italic
 }
 
-span[style="simile"] {
+span[style = "simile"] {
     color: red
 }
 
-span[style="metaphor"] {
+span[style = "metaphor"] {
     color: orange
 }
 
-span[style="irony"] {
+span[style = "irony"] {
     color: yellow
 }
 
-span[style="symbolism"] {
+span[style = "symbolism"] {
     color: green
 }
 
-span[style="personification"] {
+span[style = "personification"] {
     color: blue
 }
 
-span[style="hyperbole"] {
+span[style = "hyperbole"] {
     color: purple
 }
 
-span[style="idiom"] {
+span[style = "idiom"] {
     color: pink
 }
 
@@ -211,4 +219,12 @@ span.emphasis {
     font-style: italic;
     font-weight: bold;
     color: #ff9933;
+}
+
+footer {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;
 }
