@@ -18,6 +18,8 @@ header {
     border: 5px solid white;
     width: 100%;
     margin: 0;
+    position: relative;
+    overflow-y: auto;
 }
 
 h1 {
@@ -34,6 +36,8 @@ h2 {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    position: relative;
+    overflow-y: auto;
 }
 
 a.icon {
@@ -63,7 +67,7 @@ ul {
     list-style: none;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
@@ -155,8 +159,8 @@ section {
     transition: opacity 0.3s ease-in-out;
 }
 
-.acknowlegdement{ 
-   display:block;
+.acknowlegdement {
+    display: block;
 }
 
 .floating-window {
@@ -227,4 +231,9 @@ footer {
     justify-content: center;
     align-items: center;
     border: 5px solid black;
+}
+.svg {
+    width: 100%;
+    position: relative;
+    overflow-y: auto;
 }

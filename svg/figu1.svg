@@ -1,344 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     height="700"
-     width="2000"
-     viewBox="-100 -750 2050 900">
-   <text x="875" y="-650" text-anchor="middle" font-size="36">Instances of Figurative Languages</text>
-   <text x="875" y="100" text-anchor="middle" font-size="16">Chapter by Number</text>
-   <text y="-300" x="-100" text-anchor="middle" font-size="16">Instances</text>
-   <text y="-100" x="1900" text-anchor="middle" font-size="16">Character counts</text>
-   <line x1="0"
-         x2="1750"
-         y1="0"
-         y2="0"
-         stroke="black"
-         stroke-width="2"/>
-   <line x1="0"
-         x2="0"
-         y1="0"
-         y2="-600"
-         stroke="black"
-         stroke-width="2"/>
-   <line x1="1750"
-         x2="1750"
-         y1="0"
-         y2="-600"
-         stroke="black"
-         stroke-width="2"/>
-   <line x1="0"
-         x2="1750"
-         y1="-100"
-         y2="-100"
-         stroke="black"
-         stroke-width="1"
-         stroke-dasharray="5,3"/>
-   <text x="-20"
-         y="-100"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">5</text>
-   <text x="1790"
-         y="-100"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">5000</text>
-   <line x1="0"
-         x2="1750"
-         y1="-200"
-         y2="-200"
-         stroke="black"
-         stroke-width="1"
-         stroke-dasharray="5,3"/>
-   <text x="-20"
-         y="-200"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">10</text>
-   <text x="1790"
-         y="-200"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">10000</text>
-   <line x1="0"
-         x2="1750"
-         y1="-300"
-         y2="-300"
-         stroke="black"
-         stroke-width="1"
-         stroke-dasharray="5,3"/>
-   <text x="-20"
-         y="-300"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">15</text>
-   <text x="1790"
-         y="-300"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">15000</text>
-   <line x1="0"
-         x2="1750"
-         y1="-400"
-         y2="-400"
-         stroke="black"
-         stroke-width="1"
-         stroke-dasharray="5,3"/>
-   <text x="-20"
-         y="-400"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">20</text>
-   <text x="1790"
-         y="-400"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">20000</text>
-   <line x1="0"
-         x2="1750"
-         y1="-500"
-         y2="-500"
-         stroke="black"
-         stroke-width="1"
-         stroke-dasharray="5,3"/>
-   <text x="-20"
-         y="-500"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">25</text>
-   <text x="1790"
-         y="-500"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">25000</text>
-   <line x1="0"
-         x2="1750"
-         y1="-600"
-         y2="-600"
-         stroke="black"
-         stroke-width="1"
-         stroke-dasharray="5,3"/>
-   <text x="-20"
-         y="-600"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">30</text>
-   <text x="1790"
-         y="-600"
-         text-anchor="end"
-         dominant-baseline="middle"
-         font-size="12">30000</text>
-   <rect x="1850"
-         y="-600"
-         height="450"
-         fill="white"
-         width="150"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1880" y="-550" font-size="24">Legends</text>
-   <rect x="1910"
-         y="-520"
-         height="50"
-         fill="black"
-         width="25"
-         stroke="white"
-         stroke-width="2"/>
-   <text x="1860" y="-440" text-alin="middle">Character Counts</text>
-   <rect x="1910"
-         y="-400"
-         height="50"
-         fill="white"
-         width="25"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1890" y="-320" text-alin="middle">Instances</text>
-   <rect x="1910"
-         y="-280"
-         height="50"
-         fill="gray"
-         width="25"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1890" y="-200" text-alin="middle">Total Counts</text>
-   <rect x="130"
-         y="-257.52"
-         height="257.52"
-         fill="gray"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="170" y="-267.52" text-anchor="middle">12876</text>
-   <rect x="50"
-         y="-160"
-         height="160"
-         fill="white"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="90" y="-170" text-anchor="middle">8</text>
-   <rect x="130"
-         y="-8.54"
-         height="8.54"
-         fill="black"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="230" y="-18.54" text-anchor="middle">427</text>
-   <text x="150" y="20" text-anchor="middle" font-size="13">Enjoyment In Untroubled Ease</text>
-   <text x="230" y="--1.46" text-anchor="middle">3.32%</text>
-   <rect x="380"
-         y="-537.46"
-         height="537.46"
-         fill="gray"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="420" y="-547.46" text-anchor="middle">26873</text>
-   <rect x="300"
-         y="-240"
-         height="240"
-         fill="white"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="340" y="-250" text-anchor="middle">12</text>
-   <rect x="380"
-         y="-72.14"
-         height="72.14"
-         fill="black"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="480" y="-82.14" text-anchor="middle">3607</text>
-   <text x="400" y="20" text-anchor="middle" font-size="13">The Adjustment of Controversies</text>
-   <text x="480" y="-62.14" text-anchor="middle">13.42%</text>
-   <rect x="630"
-         y="-101.02"
-         height="101.02"
-         fill="gray"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="670" y="-111.02" text-anchor="middle">5051</text>
-   <rect x="550"
-         y="-80"
-         height="80"
-         fill="white"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="590" y="-90" text-anchor="middle">4</text>
-   <rect x="630"
-         y="-6.2"
-         height="6.2"
-         fill="black"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="730" y="-16.2" text-anchor="middle">310</text>
-   <text x="650" y="20" text-anchor="middle" font-size="13">Nourishing the Lord of Life</text>
-   <text x="730" y="--3.8" text-anchor="middle">6.14%</text>
-   <rect x="880"
-         y="-528.32"
-         height="528.32"
-         fill="gray"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="920" y="-538.32" text-anchor="middle">26416</text>
-   <rect x="800"
-         y="-140"
-         height="140"
-         fill="white"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="840" y="-150" text-anchor="middle">7</text>
-   <rect x="880"
-         y="-52.42"
-         height="52.42"
-         fill="black"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="980" y="-62.42" text-anchor="middle">2621</text>
-   <text x="900" y="20" text-anchor="middle" font-size="13">Man in the World, Associated with other Men</text>
-   <text x="980" y="-42.42" text-anchor="middle">9.92%</text>
-   <rect x="1130"
-         y="-332.44"
-         height="332.44"
-         fill="gray"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1170" y="-342.44" text-anchor="middle">16622</text>
-   <rect x="1050"
-         y="-80"
-         height="80"
-         fill="white"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1090" y="-90" text-anchor="middle">4</text>
-   <rect x="1130"
-         y="-3.9"
-         height="3.9"
-         fill="black"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1230" y="-13.9" text-anchor="middle">195</text>
-   <text x="1150" y="20" text-anchor="middle" font-size="13">The Seal of Virtue Complete</text>
-   <text x="1230" y="--6.1" text-anchor="middle">1.17%</text>
-   <rect x="1380"
-         y="-519.56"
-         height="519.56"
-         fill="gray"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1420" y="-529.56" text-anchor="middle">25978</text>
-   <rect x="1300"
-         y="-140"
-         height="140"
-         fill="white"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1340" y="-150" text-anchor="middle">7</text>
-   <rect x="1380"
-         y="-13.52"
-         height="13.52"
-         fill="black"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1480" y="-23.52" text-anchor="middle">676</text>
-   <text x="1400" y="20" text-anchor="middle" font-size="13">The Great and Most Honoured Master</text>
-   <text x="1480" y="-3.52" text-anchor="middle">2.60%</text>
-   <rect x="1630"
-         y="-196.44"
-         height="196.44"
-         fill="gray"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1670" y="-206.44" text-anchor="middle">9822</text>
-   <rect x="1550"
-         y="-20"
-         height="20"
-         fill="white"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1590" y="-30" text-anchor="middle">1</text>
-   <rect x="1630"
-         y="-5.32"
-         height="5.32"
-         fill="black"
-         width="75"
-         stroke="black"
-         stroke-width="2"/>
-   <text x="1730" y="-15.32" text-anchor="middle">266</text>
-   <text x="1650" y="20" text-anchor="middle" font-size="13">The Normal Course for Rulers and Kings</text>
-   <text x="1730" y="--4.68" text-anchor="middle">2.71%</text>
+<svg xmlns="http://www.w3.org/2000/svg" height="700" width="2000" viewBox="-100 -750 2050 900">
+      <text x="875" y="-650" text-anchor="middle" font-size="36">Instances of Figurative
+            Languages</text>
+      <text x="875" y="100" text-anchor="middle" font-size="16">Chapter by Number</text>
+      <text y="-300" x="-100" text-anchor="middle" font-size="16">Instances</text>
+      <text y="-100" x="1900" text-anchor="middle" font-size="16">Character counts</text>
+      <line x1="0" x2="1750" y1="0" y2="0" stroke="black" stroke-width="2"/>
+      <line x1="0" x2="0" y1="0" y2="-600" stroke="black" stroke-width="2"/>
+      <line x1="1750" x2="1750" y1="0" y2="-600" stroke="black" stroke-width="2"/>
+      <line x1="0" x2="1750" y1="-100" y2="-100" stroke="black" stroke-width="1"
+            stroke-dasharray="5,3"/>
+      <text x="-20" y="-100" text-anchor="end" dominant-baseline="middle" font-size="12">5</text>
+      <text x="1790" y="-100" text-anchor="end" dominant-baseline="middle" font-size="12"
+            >5000</text>
+      <line x1="0" x2="1750" y1="-200" y2="-200" stroke="black" stroke-width="1"
+            stroke-dasharray="5,3"/>
+      <text x="-20" y="-200" text-anchor="end" dominant-baseline="middle" font-size="12">10</text>
+      <text x="1790" y="-200" text-anchor="end" dominant-baseline="middle" font-size="12"
+            >10000</text>
+      <line x1="0" x2="1750" y1="-300" y2="-300" stroke="black" stroke-width="1"
+            stroke-dasharray="5,3"/>
+      <text x="-20" y="-300" text-anchor="end" dominant-baseline="middle" font-size="12">15</text>
+      <text x="1790" y="-300" text-anchor="end" dominant-baseline="middle" font-size="12"
+            >15000</text>
+      <line x1="0" x2="1750" y1="-400" y2="-400" stroke="black" stroke-width="1"
+            stroke-dasharray="5,3"/>
+      <text x="-20" y="-400" text-anchor="end" dominant-baseline="middle" font-size="12">20</text>
+      <text x="1790" y="-400" text-anchor="end" dominant-baseline="middle" font-size="12"
+            >20000</text>
+      <line x1="0" x2="1750" y1="-500" y2="-500" stroke="black" stroke-width="1"
+            stroke-dasharray="5,3"/>
+      <text x="-20" y="-500" text-anchor="end" dominant-baseline="middle" font-size="12">25</text>
+      <text x="1790" y="-500" text-anchor="end" dominant-baseline="middle" font-size="12"
+            >25000</text>
+      <line x1="0" x2="1750" y1="-600" y2="-600" stroke="black" stroke-width="1"
+            stroke-dasharray="5,3"/>
+      <text x="-20" y="-600" text-anchor="end" dominant-baseline="middle" font-size="12">30</text>
+      <text x="1790" y="-600" text-anchor="end" dominant-baseline="middle" font-size="12"
+            >30000</text>
+      <rect x="1850" y="-600" height="450" fill="white" width="150" stroke="black" stroke-width="2"/>
+      <text x="1880" y="-550" font-size="24">Legends</text>
+      <rect x="1910" y="-520" height="50" fill="black" width="25" stroke="white" stroke-width="2"/>
+      <text x="1860" y="-440" text-alin="middle">Character Counts</text>
+      <rect x="1910" y="-400" height="50" fill="white" width="25" stroke="black" stroke-width="2"/>
+      <text x="1890" y="-320" text-alin="middle">Instances</text>
+      <rect x="1910" y="-280" height="50" fill="gray" width="25" stroke="black" stroke-width="2"/>
+      <text x="1890" y="-200" text-alin="middle">Total Counts</text>
+      <rect x="130" y="-257.52" height="257.52" fill="gray" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="170" y="-267.52" text-anchor="middle">12876</text>
+      <rect x="50" y="-160" height="160" fill="white" width="75" stroke="black" stroke-width="2"/>
+      <text x="90" y="-170" text-anchor="middle">8</text>
+      <rect x="130" y="-8.54" height="8.54" fill="black" width="75" stroke="black" stroke-width="2"/>
+      <text x="230" y="-18.54" text-anchor="middle">427</text>
+      <text x="150" y="20" text-anchor="middle" font-size="13">Enjoyment In Untroubled Ease</text>
+      <text x="230" y="--1.46" text-anchor="middle">3.32%</text>
+      <rect x="380" y="-537.46" height="537.46" fill="gray" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="420" y="-547.46" text-anchor="middle">26873</text>
+      <rect x="300" y="-240" height="240" fill="white" width="75" stroke="black" stroke-width="2"/>
+      <text x="340" y="-250" text-anchor="middle">12</text>
+      <rect x="380" y="-72.14" height="72.14" fill="black" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="480" y="-82.14" text-anchor="middle">3607</text>
+      <text x="400" y="20" text-anchor="middle" font-size="13">The Adjustment of
+            Controversies</text>
+      <text x="480" y="-62.14" text-anchor="middle">13.42%</text>
+      <rect x="630" y="-101.02" height="101.02" fill="gray" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="670" y="-111.02" text-anchor="middle">5051</text>
+      <rect x="550" y="-80" height="80" fill="white" width="75" stroke="black" stroke-width="2"/>
+      <text x="590" y="-90" text-anchor="middle">4</text>
+      <rect x="630" y="-6.2" height="6.2" fill="black" width="75" stroke="black" stroke-width="2"/>
+      <text x="730" y="-16.2" text-anchor="middle">310</text>
+      <text x="650" y="20" text-anchor="middle" font-size="13">Nourishing the Lord of Life</text>
+      <text x="730" y="--3.8" text-anchor="middle">6.14%</text>
+      <rect x="880" y="-528.32" height="528.32" fill="gray" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="920" y="-538.32" text-anchor="middle">26416</text>
+      <rect x="800" y="-140" height="140" fill="white" width="75" stroke="black" stroke-width="2"/>
+      <text x="840" y="-150" text-anchor="middle">7</text>
+      <rect x="880" y="-52.42" height="52.42" fill="black" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="980" y="-62.42" text-anchor="middle">2621</text>
+      <text x="900" y="20" text-anchor="middle" font-size="13">Man in the World, Associated with
+            other Men</text>
+      <text x="980" y="-42.42" text-anchor="middle">9.92%</text>
+      <rect x="1130" y="-332.44" height="332.44" fill="gray" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="1170" y="-342.44" text-anchor="middle">16622</text>
+      <rect x="1050" y="-80" height="80" fill="white" width="75" stroke="black" stroke-width="2"/>
+      <text x="1090" y="-90" text-anchor="middle">4</text>
+      <rect x="1130" y="-3.9" height="3.9" fill="black" width="75" stroke="black" stroke-width="2"/>
+      <text x="1230" y="-13.9" text-anchor="middle">195</text>
+      <text x="1150" y="20" text-anchor="middle" font-size="13">The Seal of Virtue Complete</text>
+      <text x="1230" y="--6.1" text-anchor="middle">1.17%</text>
+      <rect x="1380" y="-519.56" height="519.56" fill="gray" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="1420" y="-529.56" text-anchor="middle">25978</text>
+      <rect x="1300" y="-140" height="140" fill="white" width="75" stroke="black" stroke-width="2"/>
+      <text x="1340" y="-150" text-anchor="middle">7</text>
+      <rect x="1380" y="-13.52" height="13.52" fill="black" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="1480" y="-23.52" text-anchor="middle">676</text>
+      <text x="1400" y="20" text-anchor="middle" font-size="13">The Great and Most Honoured
+            Master</text>
+      <text x="1480" y="-3.52" text-anchor="middle">2.60%</text>
+      <rect x="1630" y="-196.44" height="196.44" fill="gray" width="75" stroke="black"
+            stroke-width="2"/>
+      <text x="1670" y="-206.44" text-anchor="middle">9822</text>
+      <rect x="1550" y="-20" height="20" fill="white" width="75" stroke="black" stroke-width="2"/>
+      <text x="1590" y="-30" text-anchor="middle">1</text>
+      <rect x="1630" y="-5.32" height="5.32" fill="black" width="75" stroke="black" stroke-width="2"/>
+      <text x="1730" y="-15.32" text-anchor="middle">266</text>
+      <text x="1650" y="20" text-anchor="middle" font-size="13">The Normal Course for Rulers and
+            Kings</text>
+      <text x="1730" y="--4.68" text-anchor="middle">2.71%</text>
 </svg>
