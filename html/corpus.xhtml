@@ -4,22 +4,75 @@
     <head>
         <title>Zhuangzi</title>
         <link rel="stylesheet" type="text/css" href="home.css" />
+        <script type="text/javascript" src="corpus.js"></script>
         <link rel="shortcut icon" type="image/png" href="yin-yang.png" />
     </head>
     <body>
+        <div class="floating-window">
+            <div class="button-container">
+                <button id="button">Toolbar</button>
+            </div>
+            <div class="toolbar">
+                <h4>Highlights</h4>
+                <ul class="buttons">
+                    <li><b>Figurative language</b><ul>
+                            <li class="buttons"><input type="checkbox" id="figu-1" name="figu-1"
+                                 />simile<br /></li>
+                            <li class="buttons"><input type="checkbox" id="figu-2" name="figu-2"
+                                 />metaphor<br /></li>
+                            <li class="buttons"><input type="checkbox" id="figu-3" name="figu-3"
+                                 />irony<br /></li>
+                            <li class="buttons"><input type="checkbox" id="figu-4" name="figu-4"
+                                 />symbolism<br /></li>
+                            <li class="buttons"><input type="checkbox" id="figu-5" name="figu-5"
+                                 />personificatio<br /></li>
+                            <li class="buttons"><input type="checkbox" id="figu-6" name="figu-6"
+                                 />hyperbole<br /></li>
+                            <li class="buttons"><input type="checkbox" id="figu-7" name="figu-7"
+                                 />idiom<br /></li>
+                        </ul>
+                    </li>
+                    <li><b>Positive/Negative</b><ul>
+                            <li class="buttons"><input type="checkbox" id="P" name="P"
+                                 />Positive<br /></li>
+                            <li class="buttons"><input type="checkbox" id="N" name="N"
+                                 />Negative<br /></li>
+                        </ul>
+                    </li>
+                    <li><b>Reference</b><ul>
+                            <li class="buttons"><input type="checkbox" id="ref-1" name="ref-1"
+                                 />historical<br /></li>
+                            <li class="buttons"><input type="checkbox" id="ref-2" name="ref-2"
+                                 />geographic<br /></li>
+                            <li class="buttons"><input type="checkbox" id="ref-3" name="ref-3"
+                                 />direct-quote<br /></li>
+                            <li class="buttons"><input type="checkbox" id="ref-4" name="ref-4"
+                                 />indirect-quote<br /></li>
+                        </ul>
+                    </li>
+                    <li><input type="checkbox" id="Par" name="Par" /><b>Paradox</b>
+                    </li>
+                    <li><input type="checkbox" id="com" name="com" /><b>Comparison</b>
+                    </li>
+
+                    <li><input type="checkbox" id="rhe" name="rhe" /><b>Rhetorical</b>
+                    </li>
+                    <li><input type="checkbox" id="speech" name="speech" /><b>Speech</b>
+                    </li>
+                </ul>
+            </div>
+        </div>
         <h1><a class="title" id="contents">Contents</a></h1>
         <ul class="titles">
-            <li><q><a class="title" href="#chapter1">Enjoyment In Untroubled Ease (1)</a></q></li>
-            <li><q><a class="title" href="#chapter2">The Adjustment of Controversies
-                (2)</a></q></li>
-            <li><q><a class="title" href="#chapter3">Nourishing the Lord of Life (3)</a></q></li>
-            <li><q><a class="title" href="#chapter4">Man in the World, Associated with other Men
-                        (4)</a></q></li>
-            <li><q><a class="title" href="#chapter5">The Seal of Virtue Complete (5)</a></q></li>
-            <li><q><a class="title" href="#chapter6">The Great and Most Honoured Master
-                (6)</a></q></li>
-            <li><q><a class="title" href="#chapter7">The Normal Course for Rulers and Kings
-                    (7)</a></q></li>
+            <li><a class="title" href="#chapter1">Enjoyment In Untroubled Ease (1)</a></li>
+            <li><a class="title" href="#chapter2">The Adjustment of Controversies (2)</a></li>
+            <li><a class="title" href="#chapter3">Nourishing the Lord of Life (3)</a></li>
+            <li><a class="title" href="#chapter4">Man in the World, Associated with other Men
+                    (4)</a></li>
+            <li><a class="title" href="#chapter5">The Seal of Virtue Complete (5)</a></li>
+            <li><a class="title" href="#chapter6">The Great and Most Honoured Master (6)</a></li>
+            <li><a class="title" href="#chapter7">The Normal Course for Rulers and Kings
+                (7)</a></li>
         </ul>
         <hr />
         <h1><a class="title" href="#contents" id="chapter1">Chapter 1:Enjoyment In Untroubled

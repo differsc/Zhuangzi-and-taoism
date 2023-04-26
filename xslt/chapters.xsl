@@ -26,13 +26,12 @@
     
     <xsl:template match="chapter" mode="toc">
         <li>
-            <q>
                 <a class="title" href="#chapter{@n}">
                     <xsl:value-of select="@name"/>
                     <xsl:text> (</xsl:text>
                     <xsl:value-of select="@n"/>
                     <xsl:text>)</xsl:text>
-                </a></q>
+                </a>
         </li>
     </xsl:template>
     

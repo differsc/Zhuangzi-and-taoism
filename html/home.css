@@ -59,6 +59,10 @@ li{
     margin:10px;
 }
 
+ul{
+     list-style: none;
+}
+
 a.title {
     text-decoration: none;
     color: #000000;
@@ -145,6 +149,20 @@ section {
     padding: 10px;
     opacity: 1;
     transition: opacity 0.3s ease-in-out;
+}
+
+.floating-window {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 300px;
+  background-color:white;
+  border: 5px solid black;
+  margin:40px;
+}
+
+.toolbar{
+    line-height: 0;
 }
 
 kind:hover {
