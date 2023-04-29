@@ -174,55 +174,65 @@ section {
 }
 
 .toolbar {
-    line-height: 0;
+   
 }
 
-kind:hover {
-    text-underline-position: under;
-}
-/*  I realize I can probably make this simpler but IDK how */
-
-
-figurative:hover {
-    font-weight: bold
-}
-
-paradox:hover {
-    font-style: italic
-}
-
-span[style = "simile"] {
+span[style = "simile"]{
     color: red
 }
 
-span[style = "metaphor"] {
+span[style = "metaphor"]{
     color: orange
 }
 
-span[style = "irony"] {
+span[style = "irony"]{
     color: yellow
 }
 
-span[style = "symbolism"] {
+span[style = "symbolism"]{
     color: green
 }
 
-span[style = "personification"] {
+span[style = "personification"]{
     color: blue
 }
 
-span[style = "hyperbole"] {
+span[style = "hyperbole"]{
     color: purple
 }
 
-span[style = "idiom"] {
+span[style = "idiom"]{
     color: pink
 }
 
-span.emphasis {
+span.emphasis{
     font-style: italic;
     font-weight: bold;
     color: #ff9933;
+}
+
+span.rhetorical{
+    background: pink;    
+}
+
+span.positive{
+    background: yellow; 
+}
+
+span.negative{
+    background: orange; 
+}
+
+span.ref{
+    border: yellow; 
+}
+
+span.paradox{
+    border:2px solid blue;
+}
+
+span.comparison{
+    border:2px solid yellow;
 }
 
 footer {
