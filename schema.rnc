@@ -1,5 +1,6 @@
-start = chapters
-# This is for markup of chapters :)
+start = chapters | chapter
+# Root element can be either <chapters> or <chapter>
+# If <chapters>, the only only children are <chapter>
 chapters= element chapters { chapter+ }
 chapter = element chapter { n, name, section+ }
 n = attribute n { text }
