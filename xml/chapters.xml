@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="repo/Zhuangzi-and-taoism/schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapters>
     <chapter n="1" name="Enjoyment In Untroubled Ease">
         <section n="1" type="parable">
